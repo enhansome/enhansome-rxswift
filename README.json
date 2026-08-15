@@ -286,7 +286,7 @@
             "last_commit": "2026-07-14T22:07:40Z",
             "owner": "Moya",
             "repo": "Moya",
-            "stars": 15359
+            "stars": 15358
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2026-06-23T22:14:00Z",
             "owner": "RxSwiftCommunity",
             "repo": "RxKeyboard",
-            "stars": 1604
+            "stars": 1603
           }
         },
         {
@@ -1272,7 +1272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:45:05.648Z",
+    "last_updated": "2026-08-15T10:10:05.790Z",
     "original_repository": "LeoMobileDeveloper/awesome-rxswift",
     "original_repository_sha": "3bb1e95af8a3139ebc737e10b029a07e53e476a4",
     "enhanced_repository": "enhansome/enhansome-rxswift",
