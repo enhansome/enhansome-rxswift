@@ -14,7 +14,7 @@
             "last_commit": "2026-02-15T16:15:53Z",
             "owner": "khoren93",
             "repo": "SwiftHub",
-            "stars": 3118
+            "stars": 3117
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2023-01-04T17:53:43Z",
             "owner": "artsy",
             "repo": "eidolon",
-            "stars": 2693
+            "stars": 2692
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2026-07-14T22:07:40Z",
             "owner": "Moya",
             "repo": "Moya",
-            "stars": 15358
+            "stars": 15359
           }
         },
         {
@@ -860,7 +860,7 @@
             "last_commit": "2023-12-11T18:36:21Z",
             "owner": "RxSwiftCommunity",
             "repo": "RxStarscream",
-            "stars": 148
+            "stars": 147
           }
         },
         {
@@ -888,7 +888,7 @@
             "last_commit": "2022-03-12T15:13:17Z",
             "owner": "RxSwiftCommunity",
             "repo": "RxLocalizer",
-            "stars": 135
+            "stars": 134
           }
         },
         {
@@ -1272,7 +1272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:09:59.048Z",
+    "last_updated": "2026-08-17T10:18:54.030Z",
     "original_repository": "LeoMobileDeveloper/awesome-rxswift",
     "original_repository_sha": "3bb1e95af8a3139ebc737e10b029a07e53e476a4",
     "enhanced_repository": "enhansome/enhansome-rxswift",

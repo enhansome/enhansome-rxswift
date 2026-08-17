@@ -11,7 +11,7 @@
 
 ## Open-Source-Apps
 
-* [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,118 | 🐛 27 | 🌐 Swift | 📅 2026-02-15 Github iOS client written in RxSwift and MVVM clean architecture
+* [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,117 | 🐛 27 | 🌐 Swift | 📅 2026-02-15 Github iOS client written in RxSwift and MVVM clean architecture
 * [eidolon](https://github.com/artsy/eidolon) ⚠️ Archived The Artsy Auction Kiosk App
 * [RxTodo](https://github.com/devxoul/RxTodo) ⭐ 1,287 | 🐛 9 | 🌐 Swift | 📅 2022-10-05 iOS Todo Application with RxSwift + MVVM
 * [Papr](https://github.com/jdisho/Papr) ⚠️ Archived :octocat: An Unsplash app for iOS.
@@ -33,7 +33,7 @@
 
 ## Libraries
 
-* [Moya](https://github.com/Moya/Moya) ⭐ 15,358 | 🐛 176 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
+* [Moya](https://github.com/Moya/Moya) ⭐ 15,359 | 🐛 176 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
 * [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,103 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift
 * [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) ⭐ 3,093 | 🐛 88 | 🌐 Swift | 📅 2024-07-10Table and Collection View Data Sources for RxSwift
 * [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,389 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
@@ -74,9 +74,9 @@
 * [RxRealmDataSources](https://github.com/RxSwiftCommunity/RxRealmDataSources) ⭐ 158 | 🐛 10 | 🌐 Swift | 📅 2022-01-08 An easy way to bind an RxRealm observable to a table or collection view
 * [RxValidator](https://github.com/vbmania/RxValidator) ⭐ 155 | 🐛 0 | 🌐 Swift | 📅 2018-11-09 Easy to Use, Read, Extensible, Flexible Validation Checker
 * [RxState](https://github.com/RxSwiftCommunity/RxState) ⭐ 153 | 🐛 3 | 🌐 Swift | 📅 2023-04-12 Redux implementation in Swift using RxSwift
-* [RxStarscream](https://github.com/RxSwiftCommunity/RxStarscream) ⭐ 148 | 🐛 6 | 🌐 Swift | 📅 2023-12-11 A lightweight extension to subscribe Starscream websocket events with RxSwift
+* [RxStarscream](https://github.com/RxSwiftCommunity/RxStarscream) ⭐ 147 | 🐛 6 | 🌐 Swift | 📅 2023-12-11 A lightweight extension to subscribe Starscream websocket events with RxSwift
 * [RxNuke](https://github.com/kean/RxNuke) ⭐ 146 | 🐛 0 | 🌐 Swift | 📅 2023-03-04 RxSwift extensions for Nuke
-* [RxLocalizer](https://github.com/RxSwiftCommunity/RxLocalizer) ⭐ 135 | 🐛 0 | 🌐 Swift | 📅 2022-03-12 RxLocalizer allows you to localize your apps, using RxSwift 🚀
+* [RxLocalizer](https://github.com/RxSwiftCommunity/RxLocalizer) ⭐ 134 | 🐛 0 | 🌐 Swift | 📅 2022-03-12 RxLocalizer allows you to localize your apps, using RxSwift 🚀
 * [RxSpriteKit](https://github.com/giginet/RxSpriteKit) ⭐ 131 | 🐛 0 | 🌐 Swift | 📅 2020-01-30 Reactive Extensions for SpriteKit 👾
 * [RxReduce](https://github.com/RxSwiftCommunity/RxReduce) ⚠️ Archived RxReduce is a lightweight framework that ease the implementation of a state container pattern in a Reactive Programming compliant way.
 * [RxBiBinding](https://github.com/RxSwiftCommunity/RxBiBinding) ⭐ 124 | 🐛 0 | 🌐 Swift | 📅 2021-01-25 Reactive two-way binding
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
