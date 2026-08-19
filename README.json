@@ -1,1278 +1,1370 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "SwiftHub",
-          "description": "Github iOS client written in RxSwift and MVVM clean architecture",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-02-15T16:15:53Z",
-            "owner": "khoren93",
-            "repo": "SwiftHub",
-            "stars": 3117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eidolon",
-          "description": "The Artsy Auction Kiosk App",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2023-01-04T17:53:43Z",
-            "owner": "artsy",
-            "repo": "eidolon",
-            "stars": 2692
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxTodo",
-          "description": "iOS Todo Application with RxSwift + MVVM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2022-10-05T19:20:12Z",
-            "owner": "devxoul",
-            "repo": "RxTodo",
-            "stars": 1287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Papr",
-          "description": "octocat: An Unsplash app for iOS.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2020-09-17T16:39:35Z",
-            "owner": "jdisho",
-            "repo": "Papr",
-            "stars": 1141
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxSwiftExamples",
-          "description": "Examples and resources for RxSwift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-10-24T09:43:21Z",
-            "owner": "DroidsOnRoids",
-            "repo": "RxSwiftExamples",
-            "stars": 970
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxMarbles",
-          "description": "RxMarbles iOS app",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2020-06-25T10:19:32Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxMarbles",
-            "stars": 476
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ZhiHu-RxSwift",
-          "description": "ZhiHu Daily with RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-03-12T01:53:53Z",
-            "owner": "kLike",
-            "repo": "ZhiHu-RxSwift",
-            "stars": 371
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxXMLY",
-          "description": "XiMaLaYa with RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2018-02-06T08:25:06Z",
-            "owner": "sessionCh",
-            "repo": "RxXMLY",
-            "stars": 321
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GiTiny",
-          "description": "An iOS app for GitHub with exploring trending, Written in RxSwift and MVVM-C architecture.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-12-31T01:34:22Z",
-            "owner": "k-lpmg",
-            "repo": "GiTiny",
-            "stars": 281
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Passcode",
-          "description": "🔑 Passcode for iOS Rxswift, ReactorKit and IGListKit example",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-08-24T08:53:24Z",
-            "owner": "cruisediary",
-            "repo": "Passcode",
-            "stars": 253
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ReactiveWeatherExample",
-          "description": "A simple iOS weather app using the MVVM pattern and RxSwift framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2018-03-09T07:30:14Z",
-            "owner": "marinbenc",
-            "repo": "ReactiveWeatherExample",
-            "stars": 199
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "100-days-of-RxSwift",
-          "description": "💨100 days and 40 project of RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-10-24T01:49:57Z",
-            "owner": "Edison-Hsu",
-            "repo": "100-days-of-RxSwift",
-            "stars": 199
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LearningRxSwift",
-          "description": "A space to doodle as I learn RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2017-04-27T09:35:37Z",
-            "owner": "cellularmitosis",
-            "repo": "LearningRxSwift",
-            "stars": 167
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxGithub",
-          "description": "An example of MVVM using RxSwift and Swinject (DI)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-09-16T13:39:11Z",
-            "owner": "oronbz",
-            "repo": "RxGithub",
-            "stars": 122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "QiitaWithFluxSample",
-          "description": "A sample project uses Flux and MVVM features with RxSwift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2017-12-04T16:14:43Z",
-            "owner": "marty-suzuki",
-            "repo": "QiitaWithFluxSample",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxSwiftPlayer",
-          "description": "A demo project to explores RxSwift and RxCocoa",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2016-11-07T16:06:40Z",
-            "owner": "scotteg",
-            "repo": "RxSwiftPlayer",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ReallySimpleMVVMLoginExampleWithRxSwift",
-          "description": "Simulation of log in process with RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2026-07-12T18:26:16Z",
-            "owner": "carlosypunto",
-            "repo": "ReallySimpleMVVMLoginExampleWithRxSwift",
-            "stars": 92
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxChat",
-          "description": "Sample using Rx for a chat app, using Node.js, Socket.io, RxSwift and Rx.js",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2016-03-22T15:46:20Z",
-            "owner": "bontoJR",
-            "repo": "RxChat",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxStateReducer",
-          "description": "A pattern of state management with unidirectional data flow and state reducer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-02-23T00:53:14Z",
-            "owner": "vadimtrifonov",
-            "repo": "RxStateReducer",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Open-Source-Apps"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Moya",
-          "description": "Network abstraction layer written in Swift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-14T22:07:40Z",
-            "owner": "Moya",
-            "repo": "Moya",
-            "stars": 15358
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CleanArchitectureRxSwift",
-          "description": "Example of Clean Architecture of iOS app using RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-02-12T17:51:06Z",
-            "owner": "sergdort",
-            "repo": "ModernCleanArchitectureSwiftUI",
-            "stars": 4103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxDataSources",
-          "description": "Table and Collection View Data Sources for RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-07-10T15:57:11Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxDataSources",
-            "stars": 3093
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxCoordinator",
-          "description": "Reactive navigation library for iOS based on the coordinator pattern",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-02T14:52:57Z",
-            "owner": "QuickBirdEng",
-            "repo": "XCoordinator",
-            "stars": 2389
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxFlow",
-          "description": "RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-05-21T21:19:23Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxFlow",
-            "stars": 1911
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxAlamofire",
-          "description": "RxSwift wrapper around the elegant HTTP networking in Swift Alamofire",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-04-04T15:16:06Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxAlamofire",
-            "stars": 1619
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxKeyboard",
-          "description": "Reactive Keyboard in iOS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-06-23T22:14:00Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxKeyboard",
-            "stars": 1603
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxBluetoothKit",
-          "description": "iOS & OSX Bluetooth library for RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-03-05T05:34:14Z",
-            "owner": "Polidea",
-            "repo": "RxBluetoothKit",
-            "stars": 1435
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxGesture",
-          "description": "RxSwift reactive wrapper for view gestures",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-04-08T08:08:50Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxGesture",
-            "stars": 1381
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxSwiftExt",
-          "description": "Additional operators not found in the core RxSwift distribution",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-09-20T03:20:20Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxSwiftExt",
-            "stars": 1354
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxRealm",
-          "description": "RxSwift extension for RealmSwift's types",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-07-29T02:48:51Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxRealm",
-            "stars": 1160
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxCombine",
-          "description": "Bi-directional type bridging between RxSwift and Apple's Combine framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-04-21T15:21:37Z",
-            "owner": "CombineCommunity",
-            "repo": "RxCombine",
-            "stars": 1047
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxFeedback",
-          "description": "Feedback loops architecture for RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-09-21T08:37:09Z",
-            "owner": "NoTests",
-            "repo": "RxFeedback.swift",
-            "stars": 1019
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Action",
-          "description": "Abstracts actions to be performed in RxSwift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-10-17T20:06:12Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "Action",
-            "stars": 874
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxAutomaton",
-          "description": "RxSwift + State Machine, inspired by Redux and Elm.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2021-12-12T05:06:19Z",
-            "owner": "inamiy",
-            "repo": "RxAutomaton",
-            "stars": 711
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxOptional",
-          "description": "RxSwift extensions for Swift optionals and \"Occupiable\" types",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-04-08T07:57:20Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxOptional",
-            "stars": 694
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxOptional",
-          "description": "RxSwift extensions for Swift optionals and \"Occupiable\" types",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-04-08T07:57:20Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxOptional",
-            "stars": 694
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxAnimated",
-          "description": "Animated RxCocoa bindings",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2021-10-04T10:17:48Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxAnimated",
-            "stars": 684
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NSObject-Rx",
-          "description": "Handy RxSwift extensions on NSObject, including rx_disposeBag.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-12-18T19:39:46Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "NSObject-Rx",
-            "stars": 646
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iOS-Awesome-Starter-Kit",
-          "description": "The perfect combination: Clean Swift + ReSwift + PromiseKit",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2017-03-20T14:10:26Z",
-            "owner": "NghiaTranUIT",
-            "repo": "iOS-Awesome-Starter-Kit",
-            "stars": 609
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxViewModel",
-          "description": "ReactiveViewModel-esque using RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-01-20T14:03:21Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxViewModel",
-            "stars": 397
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxAppState",
-          "description": "RxSwift extensions for UIApplicationDelegate methods to observe changes in your app's state",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-05-24T07:15:30Z",
-            "owner": "pixeldock",
-            "repo": "RxAppState",
-            "stars": 386
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxTheme",
-          "description": "Theme management based on Rx",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2021-04-23T13:40:43Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxTheme",
-            "stars": 377
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Reactant",
-          "description": "Reactant is a reactive architecture for iOS https://www.reactant.tech",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2021-11-09T08:29:03Z",
-            "owner": "Brightify",
-            "repo": "Reactant",
-            "stars": 370
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxPagination",
-          "description": "The demo project for \"Protocol-Oriented Programming in Networking\".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2017-10-12T16:39:58Z",
-            "owner": "tryswift",
-            "repo": "RxPagination",
-            "stars": 358
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxViewController",
-          "description": "RxSwift wrapper for UIViewController and NSViewController",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2022-03-28T09:39:21Z",
-            "owner": "devxoul",
-            "repo": "RxViewController",
-            "stars": 344
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxReachability",
-          "description": "RxSwift bindings for Reachability",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2022-09-01T06:13:11Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxReachability",
-            "stars": 285
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxNimble",
-          "description": "Nimble extensions that making unit testing with RxSwift easier",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-10-17T20:05:34Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxNimble",
-            "stars": 262
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxWebKit",
-          "description": "RxWebKit is a RxSwift wrapper for WebKit",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-05-22T09:24:20Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxWebKit",
-            "stars": 250
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxPermission",
-          "description": "RxSwift bindings for Permissions API in iOS.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2017-12-01T07:57:39Z",
-            "owner": "sunshinejr",
-            "repo": "RxPermission",
-            "stars": 226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxPermission",
-          "description": "RxSwift bindings for Permissions API in iOS.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2017-12-01T07:57:39Z",
-            "owner": "sunshinejr",
-            "repo": "RxPermission",
-            "stars": 226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxKingfisher",
-          "description": "Reactive extension for the Kingfisher image downloading and caching library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2022-06-04T13:45:45Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxKingfisher",
-            "stars": 223
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxFirebase",
-          "description": "RxSwift extensions for Firebase",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-08-06T12:17:04Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxFirebase",
-            "stars": 222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxGRDB",
-          "description": "Reactive extensions for SQLite",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-09-28T11:20:40Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxGRDB",
-            "stars": 220
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxSwiftUtilities",
-          "description": "Helpful classes and extensions for RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2021-12-05T18:45:57Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxSwiftUtilities",
-            "stars": 186
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxCoreLocation",
-          "description": "RxCoreLocation is a reactive abstraction to manage Core Location.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2022-03-26T04:26:32Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxCoreLocation",
-            "stars": 181
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxMediaPicker",
-          "description": "A reactive wrapper built around UIImagePickerController.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2021-02-14T13:31:52Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxMediaPicker",
-            "stars": 181
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxCoreData",
-          "description": "RxSwift extensions for Core Data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-01-05T14:04:40Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxCoreData",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxRealmDataSources",
-          "description": "An easy way to bind an RxRealm observable to a table or collection view",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2022-01-08T11:02:14Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxRealmDataSources",
-            "stars": 158
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxValidator",
-          "description": "Easy to Use, Read, Extensible, Flexible Validation Checker",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2018-11-09T03:09:46Z",
-            "owner": "vbmania",
-            "repo": "RxValidator",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxState",
-          "description": "Redux implementation in Swift using RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-04-12T01:24:43Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxState",
-            "stars": 153
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxStarscream",
-          "description": "A lightweight extension to subscribe Starscream websocket events with RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-12-11T18:36:21Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxStarscream",
-            "stars": 147
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxNuke",
-          "description": "RxSwift extensions for Nuke",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-03-04T23:35:59Z",
-            "owner": "kean",
-            "repo": "RxNuke",
-            "stars": 146
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxLocalizer",
-          "description": "RxLocalizer allows you to localize your apps, using RxSwift 🚀",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2022-03-12T15:13:17Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxLocalizer",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxSpriteKit",
-          "description": "Reactive Extensions for SpriteKit 👾",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2020-01-30T14:26:13Z",
-            "owner": "giginet",
-            "repo": "RxSpriteKit",
-            "stars": 131
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxReduce",
-          "description": "RxReduce is a lightweight framework that ease the implementation of a state container pattern in a Reactive Programming compliant way.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2019-04-24T17:56:25Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxReduce",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxBiBinding",
-          "description": "Reactive two-way binding",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2021-01-25T17:19:16Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxBiBinding",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxMKMapView",
-          "description": "RxMKMapView is a RxSwift wrapper for MKMapView",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-02-06T13:56:47Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxMKMapView",
-            "stars": 119
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxASDataSources",
-          "description": "RxDataSource for AsyncDisplayKit/Texture",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2022-04-08T13:20:13Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxASDataSources",
-            "stars": 116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxCodable",
-          "description": "RxSwift wrapper for Codable",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-06-15T05:39:09Z",
-            "owner": "devxoul",
-            "repo": "RxCodable",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ObservableArray-RxSwift",
-          "description": "An array that can emit messages of elements and diffs on it's changing.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2018-03-26T16:40:12Z",
-            "owner": "safx",
-            "repo": "ObservableArray-RxSwift",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxStoreKit",
-          "description": "RxStoreKit is lightweight and easy to use Rx support for StoreKit(In-App Purchases).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2021-01-05T12:50:24Z",
-            "owner": "glassonion1",
-            "repo": "RxStoreKit",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxStoreKit",
-          "description": "RxStoreKit is lightweight and easy to use Rx support for StoreKit(In-App Purchases).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2021-01-05T12:50:24Z",
-            "owner": "glassonion1",
-            "repo": "RxStoreKit",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxExpect",
-          "description": "RxSwift testing framework",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2021-01-07T13:46:44Z",
-            "owner": "devxoul",
-            "repo": "RxExpect",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxCocoa-Texture",
-          "description": "RxCocoa Extension Library for Texture.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2021-11-05T16:22:07Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxCocoa-Texture",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxGoogleMaps",
-          "description": "RxSwift reactive wrapper for GoogleMaps SDK",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-07-10T12:54:53Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxGoogleMaps",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxSegue",
-          "description": "Reactive generic segue, implemented with RxSwift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2017-11-27T05:27:47Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxSegue",
-            "stars": 79
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FirebaseRxSwiftExtensions",
-          "description": "Extension Methods for Firebase and RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2016-05-21T23:08:58Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "FirebaseRxSwiftExtensions",
-            "stars": 76
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxGitHubAPI",
-          "description": "A GitHubAPI base on Stream by RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2017-04-18T05:26:03Z",
-            "owner": "FengDeng",
-            "repo": "RxGitHubAPI",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxFileMonitor",
-          "description": "RxSwift wrapper around CoreFoundation file events (FSEvent*) http://cleancocoa.com/",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2025-01-04T11:36:53Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxFileMonitor",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxPager",
-          "description": "Pager for RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2022-09-05T07:29:18Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxPager",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxCoreMotion",
-          "description": "Provides an easy and straight-forward way to use Apple iOS CoreMotion responses as Rx Observables.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2021-01-20T13:27:06Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxCoreMotion",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxAlert",
-          "description": "UIAlertController using RxSwift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-08-05T04:23:42Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxAlert",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxDucks",
-          "description": "🦆 RxDucks is a Redux-like framework working on RxSwift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2019-04-24T09:29:20Z",
-            "owner": "cats-oss",
-            "repo": "RxDucks",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rxswift-notifications",
-          "description": "A small group of extensions on top of NSNotification center and RxSwift that allows for strong-typed notifications",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2020-04-28T14:57:41Z",
-            "owner": "leandromperez",
-            "repo": "rxswift-notifications",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cycle.swift",
-          "description": "Cyclical observable for unidirectional architectures inspired by cycle.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-01-25T03:01:19Z",
-            "owner": "BrianSemiglia",
-            "repo": "Cycle.swift",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxTask",
-          "description": "An RxSwift implementation of a command line runner.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2017-02-28T16:37:47Z",
-            "owner": "RxSwiftCommunity",
-            "repo": "RxTask",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Moya-ObjectMapper",
-          "description": "ObjectMapper bindings for Moya and RxSwift",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2021-02-15T19:14:14Z",
-            "owner": "ivanbruel",
-            "repo": "Moya-ObjectMapper",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RxIGListKit",
-          "description": "IGListKit with RxSwift🚀",
-          "children": []
-        }
-      ],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RxSwift-Chinese-Documentation",
-          "description": "RxSwift Chinese Documentation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2022-12-07T06:23:45Z",
-            "owner": "beeth0ven",
-            "repo": "RxSwift-Chinese-Documentation",
-            "stars": 1347
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "The-introduction-to-RxSwift-you-have-been-missing",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SwiftHub",
+              "description": "Github iOS client written in RxSwift and MVVM clean architecture",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78011995,
+                "language": "Swift",
+                "last_commit": "2026-02-15T16:15:53Z",
+                "owner": "khoren93",
+                "repo": "SwiftHub",
+                "stars": 3117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eidolon",
+              "description": "The Artsy Auction Kiosk App",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 22613546,
+                "language": "Swift",
+                "last_commit": "2023-01-04T17:53:43Z",
+                "owner": "artsy",
+                "repo": "eidolon",
+                "stars": 2692
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxTodo",
+              "description": "iOS Todo Application with RxSwift + MVVM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62412616,
+                "language": "Swift",
+                "last_commit": "2022-10-05T19:20:12Z",
+                "owner": "devxoul",
+                "repo": "RxTodo",
+                "stars": 1287
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Papr",
+              "description": "octocat: An Unsplash app for iOS.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 108876241,
+                "language": "Swift",
+                "last_commit": "2020-09-17T16:39:35Z",
+                "owner": "jdisho",
+                "repo": "Papr",
+                "stars": 1141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxSwiftExamples",
+              "description": "Examples and resources for RxSwift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51301474,
+                "language": "Swift",
+                "last_commit": "2019-10-24T09:43:21Z",
+                "owner": "DroidsOnRoids",
+                "repo": "RxSwiftExamples",
+                "stars": 970
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxMarbles",
+              "description": "RxMarbles iOS app",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56926533,
+                "language": "Swift",
+                "last_commit": "2020-06-25T10:19:32Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxMarbles",
+                "stars": 476
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZhiHu-RxSwift",
+              "description": "ZhiHu Daily with RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80272046,
+                "language": "Swift",
+                "last_commit": "2025-03-12T01:53:53Z",
+                "owner": "kLike",
+                "repo": "ZhiHu-RxSwift",
+                "stars": 371
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxXMLY",
+              "description": "XiMaLaYa with RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115324726,
+                "language": "Swift",
+                "last_commit": "2018-02-06T08:25:06Z",
+                "owner": "sessionCh",
+                "repo": "RxXMLY",
+                "stars": 321
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GiTiny",
+              "description": "An iOS app for GitHub with exploring trending, Written in RxSwift and MVVM-C architecture.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181921744,
+                "language": "Swift",
+                "last_commit": "2019-12-31T01:34:22Z",
+                "owner": "k-lpmg",
+                "repo": "GiTiny",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Passcode",
+              "description": "🔑 Passcode for iOS Rxswift, ReactorKit and IGListKit example",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91896663,
+                "language": "Swift",
+                "last_commit": "2019-08-24T08:53:24Z",
+                "owner": "cruisediary",
+                "repo": "Passcode",
+                "stars": 253
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ReactiveWeatherExample",
+              "description": "A simple iOS weather app using the MVVM pattern and RxSwift framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44771139,
+                "language": "Swift",
+                "last_commit": "2018-03-09T07:30:14Z",
+                "owner": "marinbenc",
+                "repo": "ReactiveWeatherExample",
+                "stars": 199
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "100-days-of-RxSwift",
+              "description": "💨100 days and 40 project of RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54832564,
+                "language": "Swift",
+                "last_commit": "2024-10-24T01:49:57Z",
+                "owner": "Edison-Hsu",
+                "repo": "100-days-of-RxSwift",
+                "stars": 199
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LearningRxSwift",
+              "description": "A space to doodle as I learn RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46671687,
+                "language": "Swift",
+                "last_commit": "2017-04-27T09:35:37Z",
+                "owner": "cellularmitosis",
+                "repo": "LearningRxSwift",
+                "stars": 167
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxGithub",
+              "description": "An example of MVVM using RxSwift and Swinject (DI)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83522475,
+                "language": "Swift",
+                "last_commit": "2019-09-16T13:39:11Z",
+                "owner": "oronbz",
+                "repo": "RxGithub",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QiitaWithFluxSample",
+              "description": "A sample project uses Flux and MVVM features with RxSwift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86991208,
+                "language": "Swift",
+                "last_commit": "2017-12-04T16:14:43Z",
+                "owner": "marty-suzuki",
+                "repo": "QiitaWithFluxSample",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxSwiftPlayer",
+              "description": "A demo project to explores RxSwift and RxCocoa",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53209513,
+                "language": "Swift",
+                "last_commit": "2016-11-07T16:06:40Z",
+                "owner": "scotteg",
+                "repo": "RxSwiftPlayer",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ReallySimpleMVVMLoginExampleWithRxSwift",
+              "description": "Simulation of log in process with RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 47059306,
+                "language": "Swift",
+                "last_commit": "2026-07-12T18:26:16Z",
+                "owner": "carlosypunto",
+                "repo": "ReallySimpleMVVMLoginExampleWithRxSwift",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxChat",
+              "description": "Sample using Rx for a chat app, using Node.js, Socket.io, RxSwift and Rx.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53868762,
+                "language": "Swift",
+                "last_commit": "2016-03-22T15:46:20Z",
+                "owner": "bontoJR",
+                "repo": "RxChat",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxStateReducer",
+              "description": "A pattern of state management with unidirectional data flow and state reducer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171174074,
+                "language": "Swift",
+                "last_commit": "2019-02-23T00:53:14Z",
+                "owner": "vadimtrifonov",
+                "repo": "RxStateReducer",
+                "stars": 4
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2017-03-06T15:24:39Z",
-            "owner": "orakaro",
-            "repo": "The-introduction-to-RxSwift-you-have-been-missing",
-            "stars": 379
-          }
+          "node_type": "group",
+          "title": "Open-Source-Apps"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Moya",
+              "description": "Network abstraction layer written in Swift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23013268,
+                "language": "Swift",
+                "last_commit": "2026-07-14T22:07:40Z",
+                "owner": "Moya",
+                "repo": "Moya",
+                "stars": 15358
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CleanArchitectureRxSwift",
+              "description": "Example of Clean Architecture of iOS app using RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82974632,
+                "language": "Swift",
+                "last_commit": "2025-02-12T17:51:06Z",
+                "owner": "sergdort",
+                "repo": "ModernCleanArchitectureSwiftUI",
+                "stars": 4103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxDataSources",
+              "description": "Table and Collection View Data Sources for RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48885353,
+                "language": "Swift",
+                "last_commit": "2024-07-10T15:57:11Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxDataSources",
+                "stars": 3093
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxCoordinator",
+              "description": "Reactive navigation library for iOS based on the coordinator pattern",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141122309,
+                "language": "Swift",
+                "last_commit": "2026-07-02T14:52:57Z",
+                "owner": "QuickBirdEng",
+                "repo": "XCoordinator",
+                "stars": 2389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxFlow",
+              "description": "RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115838237,
+                "language": "Swift",
+                "last_commit": "2025-05-21T21:19:23Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxFlow",
+                "stars": 1911
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxAlamofire",
+              "description": "RxSwift wrapper around the elegant HTTP networking in Swift Alamofire",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41247272,
+                "language": "Swift",
+                "last_commit": "2024-04-04T15:16:06Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxAlamofire",
+                "stars": 1619
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxKeyboard",
+              "description": "Reactive Keyboard in iOS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70429268,
+                "language": "Swift",
+                "last_commit": "2026-06-23T22:14:00Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxKeyboard",
+                "stars": 1603
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxBluetoothKit",
+              "description": "iOS & OSX Bluetooth library for RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55787235,
+                "language": "Swift",
+                "last_commit": "2024-03-05T05:34:14Z",
+                "owner": "Polidea",
+                "repo": "RxBluetoothKit",
+                "stars": 1435
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxGesture",
+              "description": "RxSwift reactive wrapper for view gestures",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54464241,
+                "language": "Swift",
+                "last_commit": "2026-04-08T08:08:50Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxGesture",
+                "stars": 1381
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxSwiftExt",
+              "description": "Additional operators not found in the core RxSwift distribution",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55688297,
+                "language": "Swift",
+                "last_commit": "2023-09-20T03:20:20Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxSwiftExt",
+                "stars": 1354
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxRealm",
+              "description": "RxSwift extension for RealmSwift's types",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56589037,
+                "language": "Swift",
+                "last_commit": "2025-07-29T02:48:51Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxRealm",
+                "stars": 1160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxCombine",
+              "description": "Bi-directional type bridging between RxSwift and Apple's Combine framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191436499,
+                "language": "Swift",
+                "last_commit": "2024-04-21T15:21:37Z",
+                "owner": "CombineCommunity",
+                "repo": "RxCombine",
+                "stars": 1047
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxFeedback",
+              "description": "Feedback loops architecture for RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88841746,
+                "language": "Swift",
+                "last_commit": "2023-09-21T08:37:09Z",
+                "owner": "NoTests",
+                "repo": "RxFeedback.swift",
+                "stars": 1019
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Action",
+              "description": "Abstracts actions to be performed in RxSwift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46382724,
+                "language": "Swift",
+                "last_commit": "2023-10-17T20:06:12Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "Action",
+                "stars": 874
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxAutomaton",
+              "description": "RxSwift + State Machine, inspired by Redux and Elm.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 65905888,
+                "language": "Swift",
+                "last_commit": "2021-12-12T05:06:19Z",
+                "owner": "inamiy",
+                "repo": "RxAutomaton",
+                "stars": 711
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxOptional",
+              "description": "RxSwift extensions for Swift optionals and \"Occupiable\" types",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51060451,
+                "language": "Swift",
+                "last_commit": "2026-04-08T07:57:20Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxOptional",
+                "stars": 694
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxOptional",
+              "description": "RxSwift extensions for Swift optionals and \"Occupiable\" types",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51060451,
+                "language": "Swift",
+                "last_commit": "2026-04-08T07:57:20Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxOptional",
+                "stars": 694
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxAnimated",
+              "description": "Animated RxCocoa bindings",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100164823,
+                "language": "Swift",
+                "last_commit": "2021-10-04T10:17:48Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxAnimated",
+                "stars": 684
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NSObject-Rx",
+              "description": "Handy RxSwift extensions on NSObject, including rx_disposeBag.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46182438,
+                "language": "Swift",
+                "last_commit": "2025-12-18T19:39:46Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "NSObject-Rx",
+                "stars": 646
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iOS-Awesome-Starter-Kit",
+              "description": "The perfect combination: Clean Swift + ReSwift + PromiseKit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76822027,
+                "language": "Swift",
+                "last_commit": "2017-03-20T14:10:26Z",
+                "owner": "NghiaTranUIT",
+                "repo": "iOS-Awesome-Starter-Kit",
+                "stars": 609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxViewModel",
+              "description": "ReactiveViewModel-esque using RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39099893,
+                "language": "Swift",
+                "last_commit": "2023-01-20T14:03:21Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxViewModel",
+                "stars": 397
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxAppState",
+              "description": "RxSwift extensions for UIApplicationDelegate methods to observe changes in your app's state",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53272428,
+                "language": "Swift",
+                "last_commit": "2024-05-24T07:15:30Z",
+                "owner": "pixeldock",
+                "repo": "RxAppState",
+                "stars": 386
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxTheme",
+              "description": "Theme management based on Rx",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123772707,
+                "language": "Swift",
+                "last_commit": "2021-04-23T13:40:43Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxTheme",
+                "stars": 377
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reactant",
+              "description": "Reactant is a reactive architecture for iOS https://www.reactant.tech",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67827195,
+                "language": "Swift",
+                "last_commit": "2021-11-09T08:29:03Z",
+                "owner": "Brightify",
+                "repo": "Reactant",
+                "stars": 370
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxPagination",
+              "description": "The demo project for \"Protocol-Oriented Programming in Networking\".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53716422,
+                "language": "Swift",
+                "last_commit": "2017-10-12T16:39:58Z",
+                "owner": "tryswift",
+                "repo": "RxPagination",
+                "stars": 358
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxViewController",
+              "description": "RxSwift wrapper for UIViewController and NSViewController",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91910288,
+                "language": "Swift",
+                "last_commit": "2022-03-28T09:39:21Z",
+                "owner": "devxoul",
+                "repo": "RxViewController",
+                "stars": 344
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxReachability",
+              "description": "RxSwift bindings for Reachability",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85860914,
+                "language": "Swift",
+                "last_commit": "2022-09-01T06:13:11Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxReachability",
+                "stars": 285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxNimble",
+              "description": "Nimble extensions that making unit testing with RxSwift easier",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49209070,
+                "language": "Swift",
+                "last_commit": "2023-10-17T20:05:34Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxNimble",
+                "stars": 262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxWebKit",
+              "description": "RxWebKit is a RxSwift wrapper for WebKit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51588961,
+                "language": "Swift",
+                "last_commit": "2023-05-22T09:24:20Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxWebKit",
+                "stars": 250
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxPermission",
+              "description": "RxSwift bindings for Permissions API in iOS.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 56402534,
+                "language": "Swift",
+                "last_commit": "2017-12-01T07:57:39Z",
+                "owner": "sunshinejr",
+                "repo": "RxPermission",
+                "stars": 226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxPermission",
+              "description": "RxSwift bindings for Permissions API in iOS.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 56402534,
+                "language": "Swift",
+                "last_commit": "2017-12-01T07:57:39Z",
+                "owner": "sunshinejr",
+                "repo": "RxPermission",
+                "stars": 226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxKingfisher",
+              "description": "Reactive extension for the Kingfisher image downloading and caching library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132861856,
+                "language": "Swift",
+                "last_commit": "2022-06-04T13:45:45Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxKingfisher",
+                "stars": 223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxFirebase",
+              "description": "RxSwift extensions for Firebase",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127535602,
+                "language": "Swift",
+                "last_commit": "2023-08-06T12:17:04Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxFirebase",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxGRDB",
+              "description": "Reactive extensions for SQLite",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87106676,
+                "language": "Swift",
+                "last_commit": "2025-09-28T11:20:40Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxGRDB",
+                "stars": 220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxSwiftUtilities",
+              "description": "Helpful classes and extensions for RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74494450,
+                "language": "Swift",
+                "last_commit": "2021-12-05T18:45:57Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxSwiftUtilities",
+                "stars": 186
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxCoreLocation",
+              "description": "RxCoreLocation is a reactive abstraction to manage Core Location.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110551133,
+                "language": "Swift",
+                "last_commit": "2022-03-26T04:26:32Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxCoreLocation",
+                "stars": 181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxMediaPicker",
+              "description": "A reactive wrapper built around UIImagePickerController.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51183483,
+                "language": "Swift",
+                "last_commit": "2021-02-14T13:31:52Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxMediaPicker",
+                "stars": 181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxCoreData",
+              "description": "RxSwift extensions for Core Data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59140168,
+                "language": "C",
+                "last_commit": "2021-01-05T14:04:40Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxCoreData",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxRealmDataSources",
+              "description": "An easy way to bind an RxRealm observable to a table or collection view",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75845935,
+                "language": "Swift",
+                "last_commit": "2022-01-08T11:02:14Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxRealmDataSources",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxValidator",
+              "description": "Easy to Use, Read, Extensible, Flexible Validation Checker",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137720835,
+                "language": "Swift",
+                "last_commit": "2018-11-09T03:09:46Z",
+                "owner": "vbmania",
+                "repo": "RxValidator",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxState",
+              "description": "Redux implementation in Swift using RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91064730,
+                "language": "Swift",
+                "last_commit": "2023-04-12T01:24:43Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxState",
+                "stars": 153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxStarscream",
+              "description": "A lightweight extension to subscribe Starscream websocket events with RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59126861,
+                "language": "Swift",
+                "last_commit": "2023-12-11T18:36:21Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxStarscream",
+                "stars": 147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxNuke",
+              "description": "RxSwift extensions for Nuke",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93947903,
+                "language": "Swift",
+                "last_commit": "2023-03-04T23:35:59Z",
+                "owner": "kean",
+                "repo": "RxNuke",
+                "stars": 146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxLocalizer",
+              "description": "RxLocalizer allows you to localize your apps, using RxSwift 🚀",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152506048,
+                "language": "Swift",
+                "last_commit": "2022-03-12T15:13:17Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxLocalizer",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxSpriteKit",
+              "description": "Reactive Extensions for SpriteKit 👾",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56367727,
+                "language": "Swift",
+                "last_commit": "2020-01-30T14:26:13Z",
+                "owner": "giginet",
+                "repo": "RxSpriteKit",
+                "stars": 131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxReduce",
+              "description": "RxReduce is a lightweight framework that ease the implementation of a state container pattern in a Reactive Programming compliant way.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 130613730,
+                "language": "Swift",
+                "last_commit": "2019-04-24T17:56:25Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxReduce",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxBiBinding",
+              "description": "Reactive two-way binding",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145595728,
+                "language": "Swift",
+                "last_commit": "2021-01-25T17:19:16Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxBiBinding",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxMKMapView",
+              "description": "RxMKMapView is a RxSwift wrapper for MKMapView",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49008513,
+                "language": "Swift",
+                "last_commit": "2024-02-06T13:56:47Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxMKMapView",
+                "stars": 119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxASDataSources",
+              "description": "RxDataSource for AsyncDisplayKit/Texture",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97403395,
+                "language": "Swift",
+                "last_commit": "2022-04-08T13:20:13Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxASDataSources",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxCodable",
+              "description": "RxSwift wrapper for Codable",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104665751,
+                "language": "Swift",
+                "last_commit": "2019-06-15T05:39:09Z",
+                "owner": "devxoul",
+                "repo": "RxCodable",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ObservableArray-RxSwift",
+              "description": "An array that can emit messages of elements and diffs on it's changing.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 48803629,
+                "language": "Swift",
+                "last_commit": "2018-03-26T16:40:12Z",
+                "owner": "safx",
+                "repo": "ObservableArray-RxSwift",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxStoreKit",
+              "description": "RxStoreKit is lightweight and easy to use Rx support for StoreKit(In-App Purchases).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94960870,
+                "language": "Swift",
+                "last_commit": "2021-01-05T12:50:24Z",
+                "owner": "glassonion1",
+                "repo": "RxStoreKit",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxStoreKit",
+              "description": "RxStoreKit is lightweight and easy to use Rx support for StoreKit(In-App Purchases).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94960870,
+                "language": "Swift",
+                "last_commit": "2021-01-05T12:50:24Z",
+                "owner": "glassonion1",
+                "repo": "RxStoreKit",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxExpect",
+              "description": "RxSwift testing framework",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 65238963,
+                "language": "Swift",
+                "last_commit": "2021-01-07T13:46:44Z",
+                "owner": "devxoul",
+                "repo": "RxExpect",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxCocoa-Texture",
+              "description": "RxCocoa Extension Library for Texture.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143279801,
+                "language": "Swift",
+                "last_commit": "2021-11-05T16:22:07Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxCocoa-Texture",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxGoogleMaps",
+              "description": "RxSwift reactive wrapper for GoogleMaps SDK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70418345,
+                "language": "Swift",
+                "last_commit": "2023-07-10T12:54:53Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxGoogleMaps",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxSegue",
+              "description": "Reactive generic segue, implemented with RxSwift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54262555,
+                "language": "Swift",
+                "last_commit": "2017-11-27T05:27:47Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxSegue",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FirebaseRxSwiftExtensions",
+              "description": "Extension Methods for Firebase and RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39756632,
+                "language": "Swift",
+                "last_commit": "2016-05-21T23:08:58Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "FirebaseRxSwiftExtensions",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxGitHubAPI",
+              "description": "A GitHubAPI base on Stream by RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50638195,
+                "language": "Swift",
+                "last_commit": "2017-04-18T05:26:03Z",
+                "owner": "FengDeng",
+                "repo": "RxGitHubAPI",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxFileMonitor",
+              "description": "RxSwift wrapper around CoreFoundation file events (FSEvent*) http://cleancocoa.com/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73159963,
+                "language": "Swift",
+                "last_commit": "2025-01-04T11:36:53Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxFileMonitor",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxPager",
+              "description": "Pager for RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59175348,
+                "language": "Swift",
+                "last_commit": "2022-09-05T07:29:18Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxPager",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxCoreMotion",
+              "description": "Provides an easy and straight-forward way to use Apple iOS CoreMotion responses as Rx Observables.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59516946,
+                "language": "Swift",
+                "last_commit": "2021-01-20T13:27:06Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxCoreMotion",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxAlert",
+              "description": "UIAlertController using RxSwift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183885874,
+                "language": "Swift",
+                "last_commit": "2024-08-05T04:23:42Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxAlert",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxDucks",
+              "description": "🦆 RxDucks is a Redux-like framework working on RxSwift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140723170,
+                "language": "Swift",
+                "last_commit": "2019-04-24T09:29:20Z",
+                "owner": "cats-oss",
+                "repo": "RxDucks",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rxswift-notifications",
+              "description": "A small group of extensions on top of NSNotification center and RxSwift that allows for strong-typed notifications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164223247,
+                "language": "Swift",
+                "last_commit": "2020-04-28T14:57:41Z",
+                "owner": "leandromperez",
+                "repo": "rxswift-notifications",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cycle.swift",
+              "description": "Cyclical observable for unidirectional architectures inspired by cycle.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79954134,
+                "language": "Swift",
+                "last_commit": "2023-01-25T03:01:19Z",
+                "owner": "BrianSemiglia",
+                "repo": "Cycle.swift",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RxTask",
+              "description": "An RxSwift implementation of a command line runner.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82123108,
+                "language": "Swift",
+                "last_commit": "2017-02-28T16:37:47Z",
+                "owner": "RxSwiftCommunity",
+                "repo": "RxTask",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Moya-ObjectMapper",
+              "description": "ObjectMapper bindings for Moya and RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 339175376,
+                "language": "Swift",
+                "last_commit": "2021-02-15T19:14:14Z",
+                "owner": "ivanbruel",
+                "repo": "Moya-ObjectMapper",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RxSwift-Chinese-Documentation",
+              "description": "RxSwift Chinese Documentation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98111681,
+                "language": "CSS",
+                "last_commit": "2022-12-07T06:23:45Z",
+                "owner": "beeth0ven",
+                "repo": "RxSwift-Chinese-Documentation",
+                "stars": 1347
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The-introduction-to-RxSwift-you-have-been-missing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63616351,
+                "language": "Swift",
+                "last_commit": "2017-03-06T15:24:39Z",
+                "owner": "orakaro",
+                "repo": "The-introduction-to-RxSwift-you-have-been-missing",
+                "stars": 379
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
         }
       ],
-      "title": "Tutorials"
+      "title": "Content"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:15:09.546Z",
+    "last_updated": "2026-08-19T10:15:30.053Z",
     "original_repository": "LeoMobileDeveloper/awesome-rxswift",
     "original_repository_sha": "3bb1e95af8a3139ebc737e10b029a07e53e476a4",
     "enhanced_repository": "enhansome/enhansome-rxswift",
