@@ -339,7 +339,7 @@
                 "last_commit": "2024-07-10T15:57:11Z",
                 "owner": "RxSwiftCommunity",
                 "repo": "RxDataSources",
-                "stars": 3093
+                "stars": 3092
               }
             },
             {
@@ -1364,7 +1364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:16:44.877Z",
+    "last_updated": "2026-08-21T10:16:58.773Z",
     "original_repository": "LeoMobileDeveloper/awesome-rxswift",
     "original_repository_id": 66516622,
     "original_repository_sha": "3bb1e95af8a3139ebc737e10b029a07e53e476a4",
