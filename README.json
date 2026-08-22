@@ -309,7 +309,7 @@
                 "last_commit": "2026-07-14T22:07:40Z",
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15358
+                "stars": 15359
               }
             },
             {
@@ -1364,7 +1364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:16:58.773Z",
+    "last_updated": "2026-08-22T10:10:06.333Z",
     "original_repository": "LeoMobileDeveloper/awesome-rxswift",
     "original_repository_id": 66516622,
     "original_repository_sha": "3bb1e95af8a3139ebc737e10b029a07e53e476a4",
