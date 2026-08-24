@@ -1336,7 +1336,7 @@
                 "last_commit": "2022-12-07T06:23:45Z",
                 "owner": "beeth0ven",
                 "repo": "RxSwift-Chinese-Documentation",
-                "stars": 1347
+                "stars": 1346
               }
             },
             {
@@ -1364,7 +1364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:10:32.595Z",
+    "last_updated": "2026-08-24T10:25:25.532Z",
     "original_repository": "LeoMobileDeveloper/awesome-rxswift",
     "original_repository_id": 66516622,
     "original_repository_sha": "3bb1e95af8a3139ebc737e10b029a07e53e476a4",

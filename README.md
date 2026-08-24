@@ -105,7 +105,7 @@
 
 ## Tutorials
 
-* [RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation) ⭐ 1,347 | 🐛 2 | 🌐 CSS | 📅 2022-12-07 RxSwift Chinese Documentation
+* [RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation) ⭐ 1,346 | 🐛 2 | 🌐 CSS | 📅 2022-12-07 RxSwift Chinese Documentation
 * [The-introduction-to-RxSwift-you-have-been-missing](https://github.com/DTVD/The-introduction-to-RxSwift-you-have-been-missing) ⭐ 379 | 🐛 0 | 🌐 Swift | 📅 2017-03-06
 * [Marble Diagrams](http://rxmarbles.com/), a beautiful way to understand sequences and transformations that happen over time
 * [Implementing MVVM in iOS with RxSwift](https://medium.cobeisfresh.com/implementing-mvvm-in-ios-with-rxswift-458a2d47c33d#.3i0ir1gdh)
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
