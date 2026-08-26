@@ -33,7 +33,7 @@
 
 ## Libraries
 
-* [Moya](https://github.com/Moya/Moya) ⭐ 15,359 | 🐛 177 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
+* [Moya](https://github.com/Moya/Moya) ⭐ 15,358 | 🐛 177 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
 * [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,102 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift
 * [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) ⭐ 3,092 | 🐛 88 | 🌐 Swift | 📅 2024-07-10Table and Collection View Data Sources for RxSwift
 * [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,389 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
