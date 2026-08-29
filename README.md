@@ -34,7 +34,7 @@
 ## Libraries
 
 * [Moya](https://github.com/Moya/Moya) ⭐ 15,358 | 🐛 177 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
-* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,102 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift
+* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,103 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift
 * [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) ⭐ 3,092 | 🐛 88 | 🌐 Swift | 📅 2024-07-10Table and Collection View Data Sources for RxSwift
 * [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,389 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) ⭐ 1,911 | 🐛 2 | 🌐 Swift | 📅 2025-05-21 RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern
@@ -61,7 +61,7 @@
 * [RxViewController](https://github.com/devxoul/RxViewController) ⭐ 344 | 🐛 6 | 🌐 Swift | 📅 2022-03-28 RxSwift wrapper for UIViewController and NSViewController
 * [RxReachability](https://github.com/RxSwiftCommunity/RxReachability) ⭐ 285 | 🐛 1 | 🌐 Swift | 📅 2022-09-01 RxSwift bindings for Reachability
 * [RxNimble](https://github.com/RxSwiftCommunity/RxNimble) ⭐ 262 | 🐛 2 | 🌐 Swift | 📅 2023-10-17 Nimble extensions that making unit testing with RxSwift easier
-* [RxWebKit](https://github.com/RxSwiftCommunity/RxWebKit) ⭐ 250 | 🐛 17 | 🌐 Swift | 📅 2023-05-22 RxWebKit is a RxSwift wrapper for WebKit
+* [RxWebKit](https://github.com/RxSwiftCommunity/RxWebKit) ⭐ 251 | 🐛 17 | 🌐 Swift | 📅 2023-05-22 RxWebKit is a RxSwift wrapper for WebKit
 * [RxPermission](https://github.com/sunshinejr/RxPermission) ⚠️ Archived RxSwift bindings for Permissions API in iOS.
 * [RxPermission](https://github.com/sunshinejr/RxPermission) ⚠️ Archived RxSwift bindings for Permissions API in iOS.
 * [RxKingfisher](https://github.com/RxSwiftCommunity/RxKingfisher) ⭐ 223 | 🐛 4 | 🌐 Swift | 📅 2022-06-04 Reactive extension for the Kingfisher image downloading and caching library
