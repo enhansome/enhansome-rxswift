@@ -12,12 +12,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub iOS client in RxSwift and MVVM-C clean architecture",
+                "homepage": null,
                 "id": 78011995,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-02-15T16:15:53Z",
+                "open_issues": 27,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3117
+                "stars": 3117,
+                "topics": [
+                  "cleanarchitecture",
+                  "fastlane",
+                  "github",
+                  "graphql",
+                  "moya",
+                  "mvvm",
+                  "mvvm-architecture",
+                  "networking",
+                  "open-source",
+                  "rest",
+                  "rxswift",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -28,12 +46,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Artsy Auction Kiosk App.",
+                "homepage": "http://artsy.github.io/blog/2014/11/13/eidolon-retrospective/",
                 "id": 22613546,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-01-04T17:53:43Z",
+                "open_issues": 42,
                 "owner": "artsy",
                 "repo": "eidolon",
-                "stars": 2692
+                "stars": 2692,
+                "topics": [
+                  "artsy",
+                  "auction-kiosk",
+                  "frp",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -44,12 +72,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iOS Todo Application using RxSwift and ReactorKit",
+                "homepage": null,
                 "id": 62412616,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-10-05T19:20:12Z",
+                "open_issues": 9,
                 "owner": "devxoul",
                 "repo": "RxTodo",
-                "stars": 1287
+                "stars": 1287,
+                "topics": [
+                  "ios",
+                  "reactorkit",
+                  "rxswift",
+                  "swift",
+                  "todo"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -60,12 +99,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🌁 An Unsplash app for iOS",
+                "homepage": null,
                 "id": 108876241,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2020-09-17T16:39:35Z",
+                "open_issues": 19,
                 "owner": "jdisho",
                 "repo": "Papr",
-                "stars": 1141
+                "stars": 1141,
+                "topics": [
+                  "ios",
+                  "ios-app",
+                  "mvvm",
+                  "mvvm-architecture",
+                  "papr",
+                  "photography",
+                  "photos",
+                  "rxcocoa",
+                  "rxswift",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -76,12 +131,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Examples and resources for RxSwift.",
+                "homepage": null,
                 "id": 51301474,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-10-24T09:43:21Z",
+                "open_issues": 3,
                 "owner": "DroidsOnRoids",
                 "repo": "RxSwiftExamples",
-                "stars": 970
+                "stars": 970,
+                "topics": [
+                  "alamofire",
+                  "examples",
+                  "frp",
+                  "moya",
+                  "rxswift",
+                  "rxswift-extensions"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -92,12 +159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxMarbles iOS app",
+                "homepage": null,
                 "id": 56926533,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2020-06-25T10:19:32Z",
+                "open_issues": 3,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxMarbles",
-                "stars": 476
+                "stars": 476,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -108,12 +180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "知乎日报  with RxSwift",
+                "homepage": null,
                 "id": 80272046,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2025-03-12T01:53:53Z",
+                "open_issues": 4,
                 "owner": "kLike",
                 "repo": "ZhiHu-RxSwift",
-                "stars": 371
+                "stars": 371,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -124,12 +201,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxSwift 实现MVVM高仿喜马拉雅的函数响应式编程",
+                "homepage": "http://sessionch.com/rxswift/rxswift-learning-resource.html",
                 "id": 115324726,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2018-02-06T08:25:06Z",
+                "open_issues": 2,
                 "owner": "sessionCh",
                 "repo": "RxXMLY",
-                "stars": 321
+                "stars": 321,
+                "topics": [
+                  "ios-app",
+                  "mvvm",
+                  "rxswift",
+                  "rxswift-reactorkit",
+                  "swift4"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -140,12 +228,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An iOS app for GitHub with exploring trending",
+                "homepage": null,
                 "id": 181921744,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-12-31T01:34:22Z",
+                "open_issues": 0,
                 "owner": "k-lpmg",
                 "repo": "GiTiny",
-                "stars": 281
+                "stars": 281,
+                "topics": [
+                  "clean-architecture",
+                  "github-app",
+                  "ios-app",
+                  "mvvm-c",
+                  "realm",
+                  "rxswift",
+                  "swift",
+                  "trending"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -156,12 +258,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔑 Passcode for iOS Rxswift, ReactorKit and IGListKit example",
+                "homepage": null,
                 "id": 91896663,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2019-08-24T08:53:24Z",
+                "open_issues": 0,
                 "owner": "cruisediary",
                 "repo": "Passcode",
-                "stars": 253
+                "stars": 253,
+                "topics": [
+                  "example",
+                  "iglistkit",
+                  "passcode",
+                  "pastel",
+                  "reactorkit",
+                  "rxswift",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -172,12 +287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple iOS weather app using the MVVM pattern and RxSwift framework.",
+                "homepage": null,
                 "id": 44771139,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-03-09T07:30:14Z",
+                "open_issues": 1,
                 "owner": "marinbenc",
                 "repo": "ReactiveWeatherExample",
-                "stars": 199
+                "stars": 199,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -188,12 +308,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":dash:100 days and 40 project of RxSwift",
+                "homepage": null,
                 "id": 54832564,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2024-10-24T01:49:57Z",
+                "open_issues": 1,
                 "owner": "Edison-Hsu",
                 "repo": "100-days-of-RxSwift",
-                "stars": 199
+                "stars": 199,
+                "topics": [
+                  "rxswift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -204,12 +331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A space to doodle as I learn RxSwift",
+                "homepage": null,
                 "id": 46671687,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-04-27T09:35:37Z",
+                "open_issues": 1,
                 "owner": "cellularmitosis",
                 "repo": "LearningRxSwift",
-                "stars": 167
+                "stars": 167,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -220,12 +352,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An example of MVVM using RxSwift and Swinject (DI)",
+                "homepage": null,
                 "id": 83522475,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2019-09-16T13:39:11Z",
+                "open_issues": 0,
                 "owner": "oronbz",
                 "repo": "RxGithub",
-                "stars": 122
+                "stars": 122,
+                "topics": [
+                  "dependency-injection",
+                  "firebase",
+                  "github-api",
+                  "ios",
+                  "mvvm",
+                  "rxswift",
+                  "swift",
+                  "swinject"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -236,12 +382,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sample project uses Flux and MVVM features with RxSwift.",
+                "homepage": null,
                 "id": 86991208,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-12-04T16:14:43Z",
+                "open_issues": 0,
                 "owner": "marty-suzuki",
                 "repo": "QiitaWithFluxSample",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "flux",
+                  "ios",
+                  "mvvm",
+                  "rxswift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -252,12 +408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Explores RxSwift and RxCocoa",
+                "homepage": null,
                 "id": 53209513,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2016-11-07T16:06:40Z",
+                "open_issues": 0,
                 "owner": "scotteg",
                 "repo": "RxSwiftPlayer",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -268,12 +429,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simulation of log in process with RxSwift",
+                "homepage": null,
                 "id": 47059306,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2026-07-12T18:26:16Z",
+                "open_issues": 0,
                 "owner": "carlosypunto",
                 "repo": "ReallySimpleMVVMLoginExampleWithRxSwift",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -284,12 +450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample using Rx for a chat app, using Node.js, Socket.io, RxSwift and Rx.js",
+                "homepage": null,
                 "id": 53868762,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2016-03-22T15:46:20Z",
+                "open_issues": 1,
                 "owner": "bontoJR",
                 "repo": "RxChat",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -300,12 +471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Asynchronous state management with RxSwift",
+                "homepage": null,
                 "id": 171174074,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-02-23T00:53:14Z",
+                "open_issues": 0,
                 "owner": "vadimtrifonov",
                 "repo": "RxStateReducer",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             }
@@ -323,12 +499,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Network abstraction layer written in Swift.",
+                "homepage": "https://moya.github.io",
                 "id": 23013268,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-07-14T22:07:40Z",
+                "open_issues": 177,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15358
+                "stars": 15358,
+                "topics": [
+                  "alamofire",
+                  "hacktoberfest",
+                  "networking",
+                  "reactiveswift",
+                  "rxswift",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -339,12 +527,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example of Modern Domain Driven modularisation of iOS apps",
+                "homepage": null,
                 "id": 82974632,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2025-02-12T17:51:06Z",
+                "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4102
+                "stars": 4102,
+                "topics": [
+                  "clean-architecture",
+                  "composable-architecture",
+                  "ios",
+                  "layered-architecture",
+                  "mvvm-architecture",
+                  "redux",
+                  "swiftui"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -355,12 +556,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UITableView and UICollectionView Data Sources for RxSwift (sections, animated updates, editing ...)",
+                "homepage": null,
                 "id": 48885353,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-07-10T15:57:11Z",
+                "open_issues": 88,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxDataSources",
-                "stars": 3092
+                "stars": 3092,
+                "topics": [
+                  "animation",
+                  "binding",
+                  "collectionview",
+                  "datasource",
+                  "diff",
+                  "rxswift",
+                  "sections",
+                  "tableview",
+                  "unidirectional"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -371,12 +587,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎌 Powerful navigation library for iOS based on the coordinator pattern",
+                "homepage": null,
                 "id": 141122309,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-07-02T14:52:57Z",
+                "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2389
+                "stars": 2389,
+                "topics": [
+                  "coordinator",
+                  "coordinator-pattern",
+                  "ios",
+                  "ios-swift",
+                  "mvvm",
+                  "mvvm-architecture",
+                  "mvvm-c",
+                  "mvvm-coordinator",
+                  "rxswift",
+                  "rxswift-extensions",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -387,12 +620,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern",
+                "homepage": null,
                 "id": 115838237,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-05-21T21:19:23Z",
+                "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxFlow",
-                "stars": 1911
+                "stars": 1911,
+                "topics": [
+                  "coordinator",
+                  "flow",
+                  "reactive-programming",
+                  "rxswift",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -403,12 +647,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxSwift wrapper around the elegant HTTP networking in Swift Alamofire",
+                "homepage": null,
                 "id": 41247272,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-04-04T15:16:06Z",
+                "open_issues": 22,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxAlamofire",
-                "stars": 1619
+                "stars": 1619,
+                "topics": [
+                  "alamofire",
+                  "networking",
+                  "rxswift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -419,12 +672,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reactive Keyboard in iOS",
+                "homepage": null,
                 "id": 70429268,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-06-23T22:14:00Z",
+                "open_issues": 27,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxKeyboard",
-                "stars": 1603
+                "stars": 1603,
+                "topics": [
+                  "ios",
+                  "keyboard",
+                  "rxswift",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -435,12 +698,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iOS & OSX Bluetooth library for RxSwift",
+                "homepage": null,
                 "id": 55787235,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-05T05:34:14Z",
+                "open_issues": 56,
                 "owner": "Polidea",
                 "repo": "RxBluetoothKit",
-                "stars": 1435
+                "stars": 1435,
+                "topics": [
+                  "ble",
+                  "bluetooth",
+                  "bluetooth-library",
+                  "bluetooth-low-energy",
+                  "corebluetooth",
+                  "discover-services",
+                  "emits",
+                  "peripherals",
+                  "rssi",
+                  "rxswift",
+                  "scans",
+                  "swift",
+                  "swift-library"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -451,12 +733,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxSwift reactive wrapper for view gestures",
+                "homepage": null,
                 "id": 54464241,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-04-08T08:08:50Z",
+                "open_issues": 7,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxGesture",
-                "stars": 1381
+                "stars": 1381,
+                "topics": [
+                  "click",
+                  "gesture",
+                  "pan",
+                  "recognizers",
+                  "rxswift",
+                  "swipe"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -467,12 +761,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of Rx operators & tools not found in the core RxSwift distribution",
+                "homepage": null,
                 "id": 55688297,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-09-20T03:20:20Z",
+                "open_issues": 16,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxSwiftExt",
-                "stars": 1354
+                "stars": 1354,
+                "topics": [
+                  "reactive-programming",
+                  "rxswift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -483,12 +785,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxSwift extension for RealmSwift's types",
+                "homepage": null,
                 "id": 56589037,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-07-29T02:48:51Z",
+                "open_issues": 16,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxRealm",
-                "stars": 1160
+                "stars": 1160,
+                "topics": [
+                  "database",
+                  "reactive",
+                  "realm",
+                  "realmswift",
+                  "rxswift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -499,12 +812,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bi-directional type bridging between RxSwift and Apple's Combine framework",
+                "homepage": null,
                 "id": 191436499,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-04-21T15:21:37Z",
+                "open_issues": 7,
                 "owner": "CombineCommunity",
                 "repo": "RxCombine",
-                "stars": 1047
+                "stars": 1047,
+                "topics": [
+                  "applecombine",
+                  "combine",
+                  "frp",
+                  "ios",
+                  "linux",
+                  "macos",
+                  "reactive",
+                  "reactive-programming",
+                  "reactive-streams",
+                  "rxswift",
+                  "swift",
+                  "watchos"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -515,12 +846,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The universal system operator and architecture for RxSwift",
+                "homepage": null,
                 "id": 88841746,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-09-21T08:37:09Z",
+                "open_issues": 18,
                 "owner": "NoTests",
                 "repo": "RxFeedback.swift",
-                "stars": 1019
+                "stars": 1019,
+                "topics": [
+                  "architecture",
+                  "feedback-loop",
+                  "rxcocoa",
+                  "rxswift",
+                  "swift",
+                  "universal-operator"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -531,12 +874,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Abstracts actions to be performed in RxSwift.",
+                "homepage": null,
                 "id": 46382724,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-10-17T20:06:12Z",
+                "open_issues": 26,
                 "owner": "RxSwiftCommunity",
                 "repo": "Action",
-                "stars": 874
+                "stars": 874,
+                "topics": [
+                  "hacktoberfest",
+                  "reactive-extensions",
+                  "rxswift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -547,12 +899,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🤖 RxSwift + State Machine, inspired by Redux and Elm.",
+                "homepage": null,
                 "id": 65905888,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-12-12T05:06:19Z",
+                "open_issues": 4,
                 "owner": "inamiy",
                 "repo": "RxAutomaton",
-                "stars": 711
+                "stars": 711,
+                "topics": [
+                  "automaton",
+                  "elm",
+                  "redux",
+                  "rxswift",
+                  "state-machine",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -563,12 +927,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxSwift extensions for Swift optionals and \"Occupiable\" types",
+                "homepage": null,
                 "id": 51060451,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-04-08T07:57:20Z",
+                "open_issues": 6,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxOptional",
-                "stars": 694
+                "stars": 694,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -579,12 +948,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxSwift extensions for Swift optionals and \"Occupiable\" types",
+                "homepage": null,
                 "id": 51060451,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-04-08T07:57:20Z",
+                "open_issues": 6,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxOptional",
-                "stars": 694
+                "stars": 694,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -595,12 +969,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Animated RxCocoa bindings",
+                "homepage": null,
                 "id": 100164823,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-10-04T10:17:48Z",
+                "open_issues": 11,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxAnimated",
-                "stars": 684
+                "stars": 684,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -611,12 +990,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Handy RxSwift extensions on NSObject, including rx.disposeBag.",
+                "homepage": null,
                 "id": 46182438,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-12-18T19:39:46Z",
+                "open_issues": 9,
                 "owner": "RxSwiftCommunity",
                 "repo": "NSObject-Rx",
-                "stars": 646
+                "stars": 646,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -627,12 +1011,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The perfect combination: Clean Swift + ReSwift + PromiseKit",
+                "homepage": null,
                 "id": 76822027,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2017-03-20T14:10:26Z",
+                "open_issues": 2,
                 "owner": "NghiaTranUIT",
                 "repo": "iOS-Awesome-Starter-Kit",
-                "stars": 609
+                "stars": 609,
+                "topics": [
+                  "clean-architecture",
+                  "ios",
+                  "promisekit",
+                  "reswift",
+                  "starter-kit",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -643,12 +1039,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ReactiveViewModel-esque using RxSwift",
+                "homepage": null,
                 "id": 39099893,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-01-20T14:03:21Z",
+                "open_issues": 14,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxViewModel",
-                "stars": 397
+                "stars": 397,
+                "topics": [
+                  "mvvm",
+                  "rxcocoa",
+                  "rxswift",
+                  "swift",
+                  "swift-3",
+                  "swift-4",
+                  "viewmodel"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -659,12 +1068,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxSwift extensions for UIApplicationDelegate methods to observe changes in your app's state",
+                "homepage": null,
                 "id": 53272428,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-05-24T07:15:30Z",
+                "open_issues": 0,
                 "owner": "pixeldock",
                 "repo": "RxAppState",
-                "stars": 386
+                "stars": 386,
+                "topics": [
+                  "carthage",
+                  "cocoapods",
+                  "rx-cocoa",
+                  "rxswift",
+                  "rxswift-extensions",
+                  "swift",
+                  "uiapplicationdelegate"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -675,12 +1097,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Theme management based on Rx",
+                "homepage": null,
                 "id": 123772707,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-04-23T13:40:43Z",
+                "open_issues": 1,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxTheme",
-                "stars": 377
+                "stars": 377,
+                "topics": [
+                  "rxcocoa",
+                  "rxswift",
+                  "rxswift-extensions",
+                  "swift",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -691,12 +1124,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reactant is a reactive architecture for iOS",
+                "homepage": "https://www.reactant.tech",
                 "id": 67827195,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-11-09T08:29:03Z",
+                "open_issues": 8,
                 "owner": "Brightify",
                 "repo": "Reactant",
-                "stars": 370
+                "stars": 370,
+                "topics": [
+                  "ios",
+                  "rxswift",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -707,12 +1149,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The demo project for \"Protocol-Oriented Programming in Networking\".",
+                "homepage": null,
                 "id": 53716422,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-10-12T16:39:58Z",
+                "open_issues": 1,
                 "owner": "tryswift",
                 "repo": "RxPagination",
-                "stars": 358
+                "stars": 358,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -723,12 +1170,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxSwift wrapper for UIViewController and NSViewController",
+                "homepage": null,
                 "id": 91910288,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-03-28T09:39:21Z",
+                "open_issues": 6,
                 "owner": "devxoul",
                 "repo": "RxViewController",
-                "stars": 344
+                "stars": 344,
+                "topics": [
+                  "rxswift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -739,12 +1193,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxSwift bindings for Reachability",
+                "homepage": null,
                 "id": 85860914,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-09-01T06:13:11Z",
+                "open_issues": 1,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxReachability",
-                "stars": 285
+                "stars": 285,
+                "topics": [
+                  "network",
+                  "reachability",
+                  "rxcocoa",
+                  "rxswift",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -755,12 +1220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nimble extensions making unit testing with RxSwift easier :tada:",
+                "homepage": null,
                 "id": 49209070,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-10-17T20:05:34Z",
+                "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxNimble",
-                "stars": 262
+                "stars": 262,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -771,12 +1241,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxWebKit is a RxSwift wrapper for WebKit",
+                "homepage": null,
                 "id": 51588961,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-05-22T09:24:20Z",
+                "open_issues": 17,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxWebKit",
-                "stars": 250
+                "stars": 250,
+                "topics": [
+                  "rxswift",
+                  "wkwebview"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -787,12 +1265,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "RxSwift bindings for Permissions API in iOS.",
+                "homepage": null,
                 "id": 56402534,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-12-01T07:57:39Z",
+                "open_issues": 0,
                 "owner": "sunshinejr",
                 "repo": "RxPermission",
-                "stars": 226
+                "stars": 226,
+                "topics": [
+                  "permission",
+                  "rxpermissions",
+                  "rxswift",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -803,12 +1291,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "RxSwift bindings for Permissions API in iOS.",
+                "homepage": null,
                 "id": 56402534,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-12-01T07:57:39Z",
+                "open_issues": 0,
                 "owner": "sunshinejr",
                 "repo": "RxPermission",
-                "stars": 226
+                "stars": 226,
+                "topics": [
+                  "permission",
+                  "rxpermissions",
+                  "rxswift",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -819,12 +1317,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reactive extension for the Kingfisher image downloading and caching library",
+                "homepage": null,
                 "id": 132861856,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-06-04T13:45:45Z",
+                "open_issues": 4,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxKingfisher",
-                "stars": 223
+                "stars": 223,
+                "topics": [
+                  "image-downloader",
+                  "ios",
+                  "kingfisher",
+                  "reactivex",
+                  "rxswift",
+                  "sdwebimage",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -835,12 +1346,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxSwift extensions for Firebase",
+                "homepage": null,
                 "id": 127535602,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-08-06T12:17:04Z",
+                "open_issues": 13,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxFirebase",
-                "stars": 222
+                "stars": 222,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -851,12 +1367,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reactive extensions for SQLite",
+                "homepage": null,
                 "id": 87106676,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-09-28T11:20:40Z",
+                "open_issues": 0,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxGRDB",
-                "stars": 220
+                "stars": 220,
+                "topics": [
+                  "database",
+                  "grdb",
+                  "reactive",
+                  "rxswift",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -867,12 +1394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helpful classes and extensions for RxSwift",
+                "homepage": null,
                 "id": 74494450,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-12-05T18:45:57Z",
+                "open_issues": 1,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxSwiftUtilities",
-                "stars": 186
+                "stars": 186,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -883,12 +1415,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxCoreLocation is a reactive abstraction to manage Core Location.",
+                "homepage": "https://github.com/RxSwiftCommunity/RxCoreLocation",
                 "id": 110551133,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-03-26T04:26:32Z",
+                "open_issues": 15,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxCoreLocation",
-                "stars": 181
+                "stars": 181,
+                "topics": [
+                  "cllocationmanager",
+                  "corelocation",
+                  "location",
+                  "placemark",
+                  "rxcorelocation",
+                  "rxswift",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -899,12 +1444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reactive wrapper built around UIImagePickerController.",
+                "homepage": null,
                 "id": 51183483,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-02-14T13:31:52Z",
+                "open_issues": 12,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxMediaPicker",
-                "stars": 181
+                "stars": 181,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -915,12 +1465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxSwift extensions for Core Data",
+                "homepage": null,
                 "id": 59140168,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2021-01-05T14:04:40Z",
+                "open_issues": 11,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxCoreData",
-                "stars": 164
+                "stars": 164,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -931,12 +1486,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy way to bind an RxRealm observable to a table or collection view ",
+                "homepage": null,
                 "id": 75845935,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-01-08T11:02:14Z",
+                "open_issues": 10,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxRealmDataSources",
-                "stars": 158
+                "stars": 158,
+                "topics": [
+                  "binding",
+                  "collectionview",
+                  "reactive",
+                  "realm",
+                  "realmswift",
+                  "tableview"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -947,12 +1514,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy to Use, Read, Extensible, Flexible Validation Checker",
+                "homepage": null,
                 "id": 137720835,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-11-09T03:09:46Z",
+                "open_issues": 0,
                 "owner": "vbmania",
                 "repo": "RxValidator",
-                "stars": 155
+                "stars": 155,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -963,12 +1535,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redux implementation in Swift using RxSwift",
+                "homepage": null,
                 "id": 91064730,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-04-12T01:24:43Z",
+                "open_issues": 3,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxState",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "redux",
+                  "rxswift",
+                  "state-container",
+                  "state-management",
+                  "swift",
+                  "unidirectional-data-flow"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -979,12 +1563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight extension to subscribe  Starscream websocket events with RxSwift",
+                "homepage": null,
                 "id": 59126861,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-12-11T18:36:21Z",
+                "open_issues": 6,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxStarscream",
-                "stars": 147
+                "stars": 147,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -995,12 +1584,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxSwift extensions for Nuke",
+                "homepage": null,
                 "id": 93947903,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-03-04T23:35:59Z",
+                "open_issues": 0,
                 "owner": "kean",
                 "repo": "RxNuke",
-                "stars": 146
+                "stars": 146,
+                "topics": [
+                  "rxswift",
+                  "rxswift-extensions"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1011,12 +1608,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxLocalizer allows you to localize your apps, using RxSwift 🚀",
+                "homepage": null,
                 "id": 152506048,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-03-12T15:13:17Z",
+                "open_issues": 0,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxLocalizer",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1027,12 +1629,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":space_invader: Reactive Extensions for SpriteKit",
+                "homepage": null,
                 "id": 56367727,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-01-30T14:26:13Z",
+                "open_issues": 0,
                 "owner": "giginet",
                 "repo": "RxSpriteKit",
-                "stars": 131
+                "stars": 131,
+                "topics": [
+                  "carthage",
+                  "rxswift",
+                  "spritekit"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1043,12 +1654,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "RxReduce is a lightweight framework that ease the implementation of a state container pattern in a Reactive Programming compliant way.",
+                "homepage": null,
                 "id": 130613730,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-04-24T17:56:25Z",
+                "open_issues": 4,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxReduce",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1059,12 +1675,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reactive two-way binding",
+                "homepage": null,
                 "id": 145595728,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-01-25T17:19:16Z",
+                "open_issues": 0,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxBiBinding",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1075,12 +1696,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxMKMapView is a RxSwift wrapper for MKMapView `delegate`.",
+                "homepage": null,
                 "id": 49008513,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-02-06T13:56:47Z",
+                "open_issues": 0,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxMKMapView",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1091,12 +1717,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxDataSource for AsyncDisplayKit/Texture",
+                "homepage": null,
                 "id": 97403395,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-04-08T13:20:13Z",
+                "open_issues": 7,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxASDataSources",
-                "stars": 116
+                "stars": 116,
+                "topics": [
+                  "asyncdisplaykit",
+                  "collectionview",
+                  "reactive",
+                  "rxdatasources",
+                  "rxswift",
+                  "rxswift-extensions",
+                  "tableview",
+                  "texture"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1107,12 +1747,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxSwift wrapper for Codable",
+                "homepage": null,
                 "id": 104665751,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-06-15T05:39:09Z",
+                "open_issues": 1,
                 "owner": "devxoul",
                 "repo": "RxCodable",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "codable",
+                  "moya",
+                  "rxswift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1123,12 +1772,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An array that can emit messages of elements and diffs on it's changing.",
+                "homepage": null,
                 "id": 48803629,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-03-26T16:40:12Z",
+                "open_issues": 4,
                 "owner": "safx",
                 "repo": "ObservableArray-RxSwift",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "array",
+                  "observable",
+                  "rxswift",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1139,12 +1798,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StoreKit library for RxSwift",
+                "homepage": null,
                 "id": 94960870,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-01-05T12:50:24Z",
+                "open_issues": 4,
                 "owner": "glassonion1",
                 "repo": "RxStoreKit",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "functional",
+                  "ios",
+                  "observer",
+                  "reactivex",
+                  "rxswift",
+                  "skpaymentqueue",
+                  "storekit",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1155,12 +1828,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StoreKit library for RxSwift",
+                "homepage": null,
                 "id": 94960870,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-01-05T12:50:24Z",
+                "open_issues": 4,
                 "owner": "glassonion1",
                 "repo": "RxStoreKit",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "functional",
+                  "ios",
+                  "observer",
+                  "reactivex",
+                  "rxswift",
+                  "skpaymentqueue",
+                  "storekit",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1171,12 +1858,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "RxSwift testing framework",
+                "homepage": null,
                 "id": 65238963,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-01-07T13:46:44Z",
+                "open_issues": 6,
                 "owner": "devxoul",
                 "repo": "RxExpect",
-                "stars": 102
+                "stars": 102,
+                "topics": [
+                  "rxswift",
+                  "test"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1187,12 +1882,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxCocoa Extension Library for Texture.",
+                "homepage": null,
                 "id": 143279801,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-11-05T16:22:07Z",
+                "open_issues": 7,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxCocoa-Texture",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "asyncdisplaykit",
+                  "ios-app",
+                  "rxcocoa",
+                  "rxswift",
+                  "texture"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1203,12 +1909,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxSwift reactive wrapper for GoogleMaps SDK",
+                "homepage": null,
                 "id": 70418345,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-07-10T12:54:53Z",
+                "open_issues": 4,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxGoogleMaps",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1219,12 +1930,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 54262555,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-11-27T05:27:47Z",
+                "open_issues": 3,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxSegue",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1235,12 +1951,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extension Methods for Firebase and RxSwift",
+                "homepage": null,
                 "id": 39756632,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2016-05-21T23:08:58Z",
+                "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "FirebaseRxSwiftExtensions",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1251,12 +1972,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a GitHubAPI base on Stream by RxSwift",
+                "homepage": null,
                 "id": 50638195,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2017-04-18T05:26:03Z",
+                "open_issues": 1,
                 "owner": "FengDeng",
                 "repo": "RxGitHubAPI",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1267,12 +1993,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxSwift wrapper around CoreFoundation file events (FSEvent*)",
+                "homepage": "http://cleancocoa.com/",
                 "id": 73159963,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-01-04T11:36:53Z",
+                "open_issues": 3,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxFileMonitor",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1283,12 +2014,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pager for RxSwift",
+                "homepage": null,
                 "id": 59175348,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-09-05T07:29:18Z",
+                "open_issues": 4,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxPager",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1299,12 +2035,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides an easy and straight-forward way to use Apple iOS CoreMotion responses as Rx Observables.",
+                "homepage": null,
                 "id": 59516946,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-01-20T13:27:06Z",
+                "open_issues": 3,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxCoreMotion",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1315,12 +2056,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 183885874,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-08-05T04:23:42Z",
+                "open_issues": 0,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxAlert",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1331,12 +2077,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":duck: RxDucks is a Redux-like framework working on RxSwift.",
+                "homepage": null,
                 "id": 140723170,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-04-24T09:29:20Z",
+                "open_issues": 0,
                 "owner": "cats-oss",
                 "repo": "RxDucks",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "ios",
+                  "redux",
+                  "rxcocoa",
+                  "rxswift",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1347,12 +2104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small group of extensions on top of NSNotification center and RxSwift that allows for strong-typed notifications",
+                "homepage": null,
                 "id": 164223247,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-04-28T14:57:41Z",
+                "open_issues": 1,
                 "owner": "leandromperez",
                 "repo": "rxswift-notifications",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1363,12 +2125,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An experiment in unidirectional architecture inspired by Cycle.js https://cycle.js.org",
+                "homepage": null,
                 "id": 79954134,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-01-25T03:01:19Z",
+                "open_issues": 1,
                 "owner": "BrianSemiglia",
                 "repo": "Cycle.swift",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "architecture",
+                  "cyclejs",
+                  "reactive",
+                  "rxswift",
+                  "unidirectional-data-flow"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1379,12 +2152,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An RxSwift implementation of a command line runner.",
+                "homepage": null,
                 "id": 82123108,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-02-28T16:37:47Z",
+                "open_issues": 0,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxTask",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "command-line",
+                  "macos",
+                  "runner",
+                  "rxswift",
+                  "rxswift-extensions",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1395,12 +2180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ObjectMapper bindings for Moya and RxSwift",
+                "homepage": null,
                 "id": 339175376,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-02-15T19:14:14Z",
+                "open_issues": 0,
                 "owner": "ivanbruel",
                 "repo": "Moya-ObjectMapper",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             }
@@ -1418,12 +2208,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RxSwift 中文文档",
+                "homepage": "https://beeth0ven.github.io/RxSwift-Chinese-Documentation/",
                 "id": 98111681,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2022-12-07T06:23:45Z",
+                "open_issues": 2,
                 "owner": "beeth0ven",
                 "repo": "RxSwift-Chinese-Documentation",
-                "stars": 1346
+                "stars": 1346,
+                "topics": [
+                  "chinese",
+                  "documentation",
+                  "reactivex",
+                  "rxswift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -1434,12 +2234,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The introduction to RxSwift you've been missing",
+                "homepage": null,
                 "id": 63616351,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2017-03-06T15:24:39Z",
+                "open_issues": 0,
                 "owner": "orakaro",
                 "repo": "The-introduction-to-RxSwift-you-have-been-missing",
-                "stars": 379
+                "stars": 379,
+                "topics": [
+                  "rxswift",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             }
@@ -1453,15 +2261,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:01:02.776Z",
+    "last_updated": "2026-08-29T04:46:31.537Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An \"awesome\" type curated list of RxSwift library and learning material",
+      "homepage": null,
       "id": 66516622,
       "language": "Swift",
+      "license": "Apache-2.0",
       "last_commit": "2020-07-04T19:15:44Z",
+      "open_issues": 1,
       "owner": "LeoMobileDeveloper",
       "repo": "awesome-rxswift",
-      "stars": 505
+      "stars": 505,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-rxswift",
+        "rxswift"
+      ]
     },
     "original_repository_sha": "3bb1e95af8a3139ebc737e10b029a07e53e476a4",
     "enhanced_repository": "enhansome/enhansome-rxswift",
