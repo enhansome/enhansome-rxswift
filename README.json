@@ -237,7 +237,7 @@
                 "open_issues": 0,
                 "owner": "k-lpmg",
                 "repo": "GiTiny",
-                "stars": 281,
+                "stars": 280,
                 "topics": [
                   "clean-architecture",
                   "github-app",
@@ -536,7 +536,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4103,
+                "stars": 4104,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -596,7 +596,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2389,
+                "stars": 2390,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:44:04.152Z",
+    "last_updated": "2026-08-30T14:32:25.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",

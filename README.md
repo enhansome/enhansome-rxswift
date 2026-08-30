@@ -19,7 +19,7 @@
 * [RxMarbles](https://github.com/RxSwiftCommunity/RxMarbles) ⭐ 476 | 🐛 3 | 🌐 Swift | 📅 2020-06-25 RxMarbles iOS app
 * [ZhiHu-RxSwift](https://github.com/kLike/ZhiHu-RxSwift) ⭐ 371 | 🐛 4 | 🌐 Swift | 📅 2025-03-12 ZhiHu Daily with RxSwift
 * [RxXMLY](https://github.com/sessionCh/RxXMLY) ⭐ 321 | 🐛 2 | 🌐 Swift | 📅 2018-02-06 XiMaLaYa with RxSwift
-* [GiTiny](https://github.com/k-lpmg/GiTiny) ⭐ 281 | 🐛 0 | 🌐 Swift | 📅 2019-12-31 An iOS app for GitHub with exploring trending, Written in RxSwift and MVVM-C architecture.
+* [GiTiny](https://github.com/k-lpmg/GiTiny) ⭐ 280 | 🐛 0 | 🌐 Swift | 📅 2019-12-31 An iOS app for GitHub with exploring trending, Written in RxSwift and MVVM-C architecture.
 * [Passcode](https://github.com/cruisediary/Passcode) ⭐ 253 | 🐛 0 | 🌐 Swift | 📅 2019-08-24 🔑 Passcode for iOS Rxswift, ReactorKit and IGListKit example
 * [ReactiveWeatherExample](https://github.com/marinbenc/ReactiveWeatherExample) ⭐ 199 | 🐛 1 | 🌐 Swift | 📅 2018-03-09 A simple iOS weather app using the MVVM pattern and RxSwift framework
 * [100-days-of-RxSwift](https://github.com/Edison-Hsu/100-days-of-RxSwift) ⭐ 199 | 🐛 1 | 🌐 Swift | 📅 2024-10-24 💨100 days and 40 project of RxSwift
@@ -34,9 +34,9 @@
 ## Libraries
 
 * [Moya](https://github.com/Moya/Moya) ⭐ 15,358 | 🐛 177 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
-* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,103 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift
+* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,104 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift
 * [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) ⭐ 3,092 | 🐛 88 | 🌐 Swift | 📅 2024-07-10Table and Collection View Data Sources for RxSwift
-* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,389 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
+* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,390 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) ⭐ 1,911 | 🐛 2 | 🌐 Swift | 📅 2025-05-21 RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern
 * [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire) ⭐ 1,619 | 🐛 22 | 🌐 Swift | 📅 2024-04-04 RxSwift wrapper around the elegant HTTP networking in Swift Alamofire
 * [RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard) ⭐ 1,603 | 🐛 27 | 🌐 Swift | 📅 2026-06-23 Reactive Keyboard in iOS
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
