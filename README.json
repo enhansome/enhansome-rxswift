@@ -505,7 +505,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-07-14T22:07:40Z",
-                "open_issues": 177,
+                "open_issues": 176,
                 "owner": "Moya",
                 "repo": "Moya",
                 "stars": 15359,
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T13:54:40.180Z",
+    "last_updated": "2026-09-03T13:57:32.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
