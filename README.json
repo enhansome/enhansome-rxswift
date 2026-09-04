@@ -1020,7 +1020,7 @@
                 "open_issues": 2,
                 "owner": "NghiaTranUIT",
                 "repo": "iOS-Awesome-Starter-Kit",
-                "stars": 609,
+                "stars": 606,
                 "topics": [
                   "clean-architecture",
                   "ios",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:57:32.518Z",
+    "last_updated": "2026-09-04T13:49:53.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
