@@ -508,7 +508,7 @@
                 "open_issues": 176,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15359,
+                "stars": 15357,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -742,7 +742,7 @@
                 "open_issues": 7,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxGesture",
-                "stars": 1381,
+                "stars": 1380,
                 "topics": [
                   "click",
                   "gesture",
@@ -2217,7 +2217,7 @@
                 "open_issues": 2,
                 "owner": "beeth0ven",
                 "repo": "RxSwift-Chinese-Documentation",
-                "stars": 1346,
+                "stars": 1344,
                 "topics": [
                   "chinese",
                   "documentation",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:04:04.219Z",
+    "last_updated": "2026-09-06T13:13:13.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
