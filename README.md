@@ -23,7 +23,7 @@
 * [Passcode](https://github.com/cruisediary/Passcode) ⭐ 253 | 🐛 0 | 🌐 Swift | 📅 2019-08-24 🔑 Passcode for iOS Rxswift, ReactorKit and IGListKit example
 * [ReactiveWeatherExample](https://github.com/marinbenc/ReactiveWeatherExample) ⭐ 199 | 🐛 1 | 🌐 Swift | 📅 2018-03-09 A simple iOS weather app using the MVVM pattern and RxSwift framework
 * [100-days-of-RxSwift](https://github.com/Edison-Hsu/100-days-of-RxSwift) ⭐ 199 | 🐛 1 | 🌐 Swift | 📅 2024-10-24 💨100 days and 40 project of RxSwift
-* [LearningRxSwift](https://github.com/pepaslabs/LearningRxSwift) ⭐ 167 | 🐛 1 | 🌐 Swift | 📅 2017-04-27 A space to doodle as I learn RxSwift
+* [LearningRxSwift](https://github.com/pepaslabs/LearningRxSwift) ⭐ 166 | 🐛 1 | 🌐 Swift | 📅 2017-04-27 A space to doodle as I learn RxSwift
 * [RxGithub](https://github.com/oronbz/RxGithub) ⭐ 122 | 🐛 0 | 🌐 Swift | 📅 2019-09-16 An example of MVVM using RxSwift and Swinject (DI)
 * [QiitaWithFluxSample](https://github.com/marty-suzuki/QiitaWithFluxSample) ⭐ 103 | 🐛 0 | 🌐 Swift | 📅 2017-12-04 A sample project uses Flux and MVVM features with RxSwift.
 * [RxSwiftPlayer](https://github.com/scotteg/RxSwiftPlayer) ⭐ 94 | 🐛 0 | 🌐 Swift | 📅 2016-11-07 A demo project to explores RxSwift and RxCocoa
@@ -74,7 +74,7 @@
 * [RxRealmDataSources](https://github.com/RxSwiftCommunity/RxRealmDataSources) ⭐ 158 | 🐛 10 | 🌐 Swift | 📅 2022-01-08 An easy way to bind an RxRealm observable to a table or collection view
 * [RxValidator](https://github.com/vbmania/RxValidator) ⭐ 155 | 🐛 0 | 🌐 Swift | 📅 2018-11-09 Easy to Use, Read, Extensible, Flexible Validation Checker
 * [RxState](https://github.com/RxSwiftCommunity/RxState) ⭐ 153 | 🐛 3 | 🌐 Swift | 📅 2023-04-12 Redux implementation in Swift using RxSwift
-* [RxStarscream](https://github.com/RxSwiftCommunity/RxStarscream) ⭐ 147 | 🐛 6 | 🌐 Swift | 📅 2023-12-11 A lightweight extension to subscribe Starscream websocket events with RxSwift
+* [RxStarscream](https://github.com/RxSwiftCommunity/RxStarscream) ⭐ 146 | 🐛 6 | 🌐 Swift | 📅 2023-12-11 A lightweight extension to subscribe Starscream websocket events with RxSwift
 * [RxNuke](https://github.com/kean/RxNuke) ⭐ 146 | 🐛 0 | 🌐 Swift | 📅 2023-03-04 RxSwift extensions for Nuke
 * [RxLocalizer](https://github.com/RxSwiftCommunity/RxLocalizer) ⭐ 134 | 🐛 0 | 🌐 Swift | 📅 2022-03-12 RxLocalizer allows you to localize your apps, using RxSwift 🚀
 * [RxSpriteKit](https://github.com/giginet/RxSpriteKit) ⭐ 131 | 🐛 0 | 🌐 Swift | 📅 2020-01-30 Reactive Extensions for SpriteKit 👾
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
