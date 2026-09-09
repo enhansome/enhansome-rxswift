@@ -508,7 +508,7 @@
                 "open_issues": 176,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15357,
+                "stars": 15356,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -707,7 +707,7 @@
                 "open_issues": 56,
                 "owner": "Polidea",
                 "repo": "RxBluetoothKit",
-                "stars": 1435,
+                "stars": 1436,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:56:48.682Z",
+    "last_updated": "2026-09-09T13:59:29.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
