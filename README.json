@@ -21,7 +21,7 @@
                 "open_issues": 27,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3117,
+                "stars": 3116,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:59:29.595Z",
+    "last_updated": "2026-09-10T13:54:42.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
