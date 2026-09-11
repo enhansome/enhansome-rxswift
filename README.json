@@ -596,7 +596,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2393,
+                "stars": 2392,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:54:42.825Z",
+    "last_updated": "2026-09-11T13:54:30.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
@@ -2273,7 +2273,7 @@
       "open_issues": 1,
       "owner": "LeoMobileDeveloper",
       "repo": "awesome-rxswift",
-      "stars": 505,
+      "stars": 504,
       "topics": [
         "awesome",
         "awesome-list",
