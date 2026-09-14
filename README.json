@@ -165,7 +165,7 @@
                 "language": "Swift",
                 "license": null,
                 "last_commit": "2020-06-25T10:19:32Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxMarbles",
                 "stars": 476,
@@ -508,7 +508,7 @@
                 "open_issues": 176,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15358,
+                "stars": 15357,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:56:44.418Z",
+    "last_updated": "2026-09-14T16:00:50.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
