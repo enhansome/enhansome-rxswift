@@ -508,7 +508,7 @@
                 "open_issues": 176,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15357,
+                "stars": 15355,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -596,7 +596,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2392,
+                "stars": 2393,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -999,7 +999,7 @@
                 "open_issues": 9,
                 "owner": "RxSwiftCommunity",
                 "repo": "NSObject-Rx",
-                "stars": 646,
+                "stars": 645,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T14:30:42.180Z",
+    "last_updated": "2026-09-16T14:24:27.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
