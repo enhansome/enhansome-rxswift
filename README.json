@@ -140,7 +140,7 @@
                 "open_issues": 3,
                 "owner": "DroidsOnRoids",
                 "repo": "RxSwiftExamples",
-                "stars": 970,
+                "stars": 969,
                 "topics": [
                   "alamofire",
                   "examples",
@@ -508,7 +508,7 @@
                 "open_issues": 176,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15355,
+                "stars": 15357,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T14:24:27.986Z",
+    "last_updated": "2026-09-17T14:29:41.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",

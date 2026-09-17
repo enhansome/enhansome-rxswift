@@ -15,7 +15,7 @@
 * [eidolon](https://github.com/artsy/eidolon) ⚠️ Archived The Artsy Auction Kiosk App
 * [RxTodo](https://github.com/devxoul/RxTodo) ⭐ 1,287 | 🐛 9 | 🌐 Swift | 📅 2022-10-05 iOS Todo Application with RxSwift + MVVM
 * [Papr](https://github.com/jdisho/Papr) ⚠️ Archived :octocat: An Unsplash app for iOS.
-* [RxSwiftExamples](https://github.com/DroidsOnRoids/RxSwiftExamples) ⭐ 970 | 🐛 3 | 🌐 Swift | 📅 2019-10-24 Examples and resources for RxSwift.
+* [RxSwiftExamples](https://github.com/DroidsOnRoids/RxSwiftExamples) ⭐ 969 | 🐛 3 | 🌐 Swift | 📅 2019-10-24 Examples and resources for RxSwift.
 * [RxMarbles](https://github.com/RxSwiftCommunity/RxMarbles) ⭐ 476 | 🐛 2 | 🌐 Swift | 📅 2020-06-25 RxMarbles iOS app
 * [ZhiHu-RxSwift](https://github.com/kLike/ZhiHu-RxSwift) ⭐ 371 | 🐛 4 | 🌐 Swift | 📅 2025-03-12 ZhiHu Daily with RxSwift
 * [RxXMLY](https://github.com/sessionCh/RxXMLY) ⭐ 321 | 🐛 2 | 🌐 Swift | 📅 2018-02-06 XiMaLaYa with RxSwift
@@ -33,7 +33,7 @@
 
 ## Libraries
 
-* [Moya](https://github.com/Moya/Moya) ⭐ 15,355 | 🐛 176 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
+* [Moya](https://github.com/Moya/Moya) ⭐ 15,357 | 🐛 176 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
 * [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,105 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift
 * [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) ⭐ 3,093 | 🐛 88 | 🌐 Swift | 📅 2024-07-10Table and Collection View Data Sources for RxSwift
 * [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,393 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
