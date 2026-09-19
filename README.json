@@ -21,7 +21,7 @@
                 "open_issues": 27,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3116,
+                "stars": 3115,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -81,7 +81,7 @@
                 "open_issues": 9,
                 "owner": "devxoul",
                 "repo": "RxTodo",
-                "stars": 1287,
+                "stars": 1286,
                 "topics": [
                   "ios",
                   "reactorkit",
@@ -168,7 +168,7 @@
                 "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxMarbles",
-                "stars": 476,
+                "stars": 475,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
@@ -536,7 +536,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4105,
+                "stars": 4104,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -565,7 +565,7 @@
                 "open_issues": 88,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxDataSources",
-                "stars": 3093,
+                "stars": 3091,
                 "topics": [
                   "animation",
                   "binding",
@@ -596,7 +596,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2393,
+                "stars": 2392,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -629,7 +629,7 @@
                 "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxFlow",
-                "stars": 1911,
+                "stars": 1910,
                 "topics": [
                   "coordinator",
                   "flow",
@@ -656,7 +656,7 @@
                 "open_issues": 22,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxAlamofire",
-                "stars": 1619,
+                "stars": 1618,
                 "topics": [
                   "alamofire",
                   "networking",
@@ -681,7 +681,7 @@
                 "open_issues": 27,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxKeyboard",
-                "stars": 1601,
+                "stars": 1600,
                 "topics": [
                   "ios",
                   "keyboard",
@@ -707,7 +707,7 @@
                 "open_issues": 56,
                 "owner": "Polidea",
                 "repo": "RxBluetoothKit",
-                "stars": 1437,
+                "stars": 1436,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -742,7 +742,7 @@
                 "open_issues": 7,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxGesture",
-                "stars": 1380,
+                "stars": 1379,
                 "topics": [
                   "click",
                   "gesture",
@@ -770,7 +770,7 @@
                 "open_issues": 16,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxSwiftExt",
-                "stars": 1354,
+                "stars": 1353,
                 "topics": [
                   "reactive-programming",
                   "rxswift"
@@ -794,7 +794,7 @@
                 "open_issues": 16,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxRealm",
-                "stars": 1160,
+                "stars": 1159,
                 "topics": [
                   "database",
                   "reactive",
@@ -821,7 +821,7 @@
                 "open_issues": 7,
                 "owner": "CombineCommunity",
                 "repo": "RxCombine",
-                "stars": 1047,
+                "stars": 1046,
                 "topics": [
                   "applecombine",
                   "combine",
@@ -883,7 +883,7 @@
                 "open_issues": 26,
                 "owner": "RxSwiftCommunity",
                 "repo": "Action",
-                "stars": 873,
+                "stars": 872,
                 "topics": [
                   "hacktoberfest",
                   "reactive-extensions",
@@ -999,7 +999,7 @@
                 "open_issues": 9,
                 "owner": "RxSwiftCommunity",
                 "repo": "NSObject-Rx",
-                "stars": 645,
+                "stars": 644,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
@@ -1048,7 +1048,7 @@
                 "open_issues": 14,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxViewModel",
-                "stars": 397,
+                "stars": 396,
                 "topics": [
                   "mvvm",
                   "rxcocoa",
@@ -1077,7 +1077,7 @@
                 "open_issues": 0,
                 "owner": "pixeldock",
                 "repo": "RxAppState",
-                "stars": 386,
+                "stars": 385,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -1376,7 +1376,7 @@
                 "open_issues": 0,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxGRDB",
-                "stars": 220,
+                "stars": 219,
                 "topics": [
                   "database",
                   "grdb",
@@ -1544,7 +1544,7 @@
                 "open_issues": 3,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxState",
-                "stars": 153,
+                "stars": 152,
                 "topics": [
                   "redux",
                   "rxswift",
@@ -2217,7 +2217,7 @@
                 "open_issues": 2,
                 "owner": "beeth0ven",
                 "repo": "RxSwift-Chinese-Documentation",
-                "stars": 1344,
+                "stars": 1343,
                 "topics": [
                   "chinese",
                   "documentation",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:55:50.068Z",
+    "last_updated": "2026-09-19T13:31:06.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
