@@ -11,7 +11,7 @@
 
 ## Open-Source-Apps
 
-* [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,115 | 🐛 27 | 🌐 Swift | 📅 2026-02-15 Github iOS client written in RxSwift and MVVM clean architecture
+* [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,113 | 🐛 27 | 🌐 Swift | 📅 2026-02-15 Github iOS client written in RxSwift and MVVM clean architecture
 * [eidolon](https://github.com/artsy/eidolon) ⚠️ Archived The Artsy Auction Kiosk App
 * [RxTodo](https://github.com/devxoul/RxTodo) ⭐ 1,286 | 🐛 9 | 🌐 Swift | 📅 2022-10-05 iOS Todo Application with RxSwift + MVVM
 * [Papr](https://github.com/jdisho/Papr) ⚠️ Archived :octocat: An Unsplash app for iOS.
@@ -33,16 +33,16 @@
 
 ## Libraries
 
-* [Moya](https://github.com/Moya/Moya) ⭐ 15,353 | 🐛 176 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
+* [Moya](https://github.com/Moya/Moya) ⭐ 15,354 | 🐛 176 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
 * [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,104 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift
 * [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) ⭐ 3,091 | 🐛 88 | 🌐 Swift | 📅 2024-07-10Table and Collection View Data Sources for RxSwift
-* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,392 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
+* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,393 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) ⭐ 1,910 | 🐛 2 | 🌐 Swift | 📅 2025-05-21 RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern
 * [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire) ⭐ 1,618 | 🐛 22 | 🌐 Swift | 📅 2024-04-04 RxSwift wrapper around the elegant HTTP networking in Swift Alamofire
 * [RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard) ⭐ 1,600 | 🐛 27 | 🌐 Swift | 📅 2026-06-23 Reactive Keyboard in iOS
 * [RxBluetoothKit](https://github.com/Polidea/RxBluetoothKit) ⭐ 1,436 | 🐛 56 | 🌐 Swift | 📅 2024-03-05 iOS & OSX Bluetooth library for RxSwift
 * [RxGesture](https://github.com/RxSwiftCommunity/RxGesture) ⭐ 1,379 | 🐛 7 | 🌐 Swift | 📅 2026-04-08 RxSwift reactive wrapper for view gestures
-* [RxSwiftExt](https://github.com/RxSwiftCommunity/RxSwiftExt) ⭐ 1,353 | 🐛 16 | 🌐 Swift | 📅 2023-09-20 Additional operators not found in the core RxSwift distribution
+* [RxSwiftExt](https://github.com/RxSwiftCommunity/RxSwiftExt) ⭐ 1,354 | 🐛 16 | 🌐 Swift | 📅 2023-09-20 Additional operators not found in the core RxSwift distribution
 * [RxRealm](https://github.com/RxSwiftCommunity/RxRealm) ⭐ 1,159 | 🐛 16 | 🌐 Swift | 📅 2025-07-29 RxSwift extension for RealmSwift's types
 * [RxCombine](https://github.com/freak4pc/RxCombine) ⭐ 1,046 | 🐛 7 | 🌐 Swift | 📅 2024-04-21 Bi-directional type bridging between RxSwift and Apple's Combine framework
 * [RxFeedback](https://github.com/kzaher/RxFeedback) ⭐ 1,019 | 🐛 18 | 🌐 Swift | 📅 2023-09-21 Feedback loops architecture for RxSwift
@@ -56,7 +56,7 @@
 * [RxViewModel](https://github.com/RxSwiftCommunity/RxViewModel) ⭐ 396 | 🐛 14 | 🌐 Swift | 📅 2023-01-20 ReactiveViewModel-esque using RxSwift
 * [RxAppState](https://github.com/pixeldock/RxAppState) ⭐ 385 | 🐛 0 | 🌐 Swift | 📅 2024-05-24 RxSwift extensions for UIApplicationDelegate methods to observe changes in your app's state
 * [RxTheme](https://github.com/RxSwiftCommunity/RxTheme) ⭐ 376 | 🐛 1 | 🌐 Swift | 📅 2021-04-23 Theme management based on Rx
-* [Reactant](https://github.com/Brightify/Reactant) ⭐ 370 | 🐛 8 | 🌐 Swift | 📅 2021-11-09 Reactant is a reactive architecture for iOS <https://www.reactant.tech>
+* [Reactant](https://github.com/Brightify/Reactant) ⭐ 369 | 🐛 8 | 🌐 Swift | 📅 2021-11-09 Reactant is a reactive architecture for iOS <https://www.reactant.tech>
 * [RxPagination](https://github.com/tryswift/RxPagination) ⭐ 358 | 🐛 1 | 🌐 Swift | 📅 2017-10-12 The demo project for "Protocol-Oriented Programming in Networking".
 * [RxViewController](https://github.com/devxoul/RxViewController) ⭐ 343 | 🐛 6 | 🌐 Swift | 📅 2022-03-28 RxSwift wrapper for UIViewController and NSViewController
 * [RxReachability](https://github.com/RxSwiftCommunity/RxReachability) ⭐ 284 | 🐛 1 | 🌐 Swift | 📅 2022-09-01 RxSwift bindings for Reachability
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
