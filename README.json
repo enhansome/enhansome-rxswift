@@ -508,7 +508,7 @@
                 "open_issues": 176,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15356,
+                "stars": 15353,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -565,7 +565,7 @@
                 "open_issues": 88,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxDataSources",
-                "stars": 3091,
+                "stars": 3090,
                 "topics": [
                   "animation",
                   "binding",
@@ -596,7 +596,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2393,
+                "stars": 2392,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -629,7 +629,7 @@
                 "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxFlow",
-                "stars": 1910,
+                "stars": 1909,
                 "topics": [
                   "coordinator",
                   "flow",
@@ -855,7 +855,7 @@
                 "open_issues": 18,
                 "owner": "NoTests",
                 "repo": "RxFeedback.swift",
-                "stars": 1019,
+                "stars": 1018,
                 "topics": [
                   "architecture",
                   "feedback-loop",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T14:51:08.315Z",
+    "last_updated": "2026-09-28T17:50:22.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
