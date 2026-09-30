@@ -681,7 +681,7 @@
                 "open_issues": 27,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxKeyboard",
-                "stars": 1600,
+                "stars": 1601,
                 "topics": [
                   "ios",
                   "keyboard",
@@ -978,7 +978,7 @@
                 "open_issues": 11,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxAnimated",
-                "stars": 684,
+                "stars": 682,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:10:18.092Z",
+    "last_updated": "2026-09-30T16:07:36.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
