@@ -21,7 +21,7 @@
                 "open_issues": 27,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3114,
+                "stars": 3113,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -536,7 +536,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4103,
+                "stars": 4102,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -565,7 +565,7 @@
                 "open_issues": 88,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxDataSources",
-                "stars": 3090,
+                "stars": 3089,
                 "topics": [
                   "animation",
                   "binding",
@@ -596,7 +596,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2392,
+                "stars": 2391,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -656,7 +656,7 @@
                 "open_issues": 22,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxAlamofire",
-                "stars": 1618,
+                "stars": 1617,
                 "topics": [
                   "alamofire",
                   "networking",
@@ -707,7 +707,7 @@
                 "open_issues": 56,
                 "owner": "Polidea",
                 "repo": "RxBluetoothKit",
-                "stars": 1436,
+                "stars": 1435,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -742,7 +742,7 @@
                 "open_issues": 7,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxGesture",
-                "stars": 1379,
+                "stars": 1378,
                 "topics": [
                   "click",
                   "gesture",
@@ -794,7 +794,7 @@
                 "open_issues": 16,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxRealm",
-                "stars": 1159,
+                "stars": 1158,
                 "topics": [
                   "database",
                   "reactive",
@@ -821,7 +821,7 @@
                 "open_issues": 7,
                 "owner": "CombineCommunity",
                 "repo": "RxCombine",
-                "stars": 1046,
+                "stars": 1045,
                 "topics": [
                   "applecombine",
                   "combine",
@@ -883,7 +883,7 @@
                 "open_issues": 26,
                 "owner": "RxSwiftCommunity",
                 "repo": "Action",
-                "stars": 872,
+                "stars": 871,
                 "topics": [
                   "hacktoberfest",
                   "reactive-extensions",
@@ -908,7 +908,7 @@
                 "open_issues": 4,
                 "owner": "inamiy",
                 "repo": "RxAutomaton",
-                "stars": 710,
+                "stars": 709,
                 "topics": [
                   "automaton",
                   "elm",
@@ -936,7 +936,7 @@
                 "open_issues": 6,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxOptional",
-                "stars": 694,
+                "stars": 693,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
@@ -957,7 +957,7 @@
                 "open_issues": 6,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxOptional",
-                "stars": 694,
+                "stars": 693,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
@@ -978,7 +978,7 @@
                 "open_issues": 11,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxAnimated",
-                "stars": 682,
+                "stars": 681,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
@@ -1179,7 +1179,7 @@
                 "open_issues": 6,
                 "owner": "devxoul",
                 "repo": "RxViewController",
-                "stars": 343,
+                "stars": 342,
                 "topics": [
                   "rxswift"
                 ]
@@ -1202,7 +1202,7 @@
                 "open_issues": 1,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxReachability",
-                "stars": 284,
+                "stars": 283,
                 "topics": [
                   "network",
                   "reachability",
@@ -1250,7 +1250,7 @@
                 "open_issues": 17,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxWebKit",
-                "stars": 251,
+                "stars": 250,
                 "topics": [
                   "rxswift",
                   "wkwebview"
@@ -1274,7 +1274,7 @@
                 "open_issues": 0,
                 "owner": "sunshinejr",
                 "repo": "RxPermission",
-                "stars": 226,
+                "stars": 225,
                 "topics": [
                   "permission",
                   "rxpermissions",
@@ -1300,7 +1300,7 @@
                 "open_issues": 0,
                 "owner": "sunshinejr",
                 "repo": "RxPermission",
-                "stars": 226,
+                "stars": 225,
                 "topics": [
                   "permission",
                   "rxpermissions",
@@ -1326,7 +1326,7 @@
                 "open_issues": 4,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxKingfisher",
-                "stars": 223,
+                "stars": 222,
                 "topics": [
                   "image-downloader",
                   "ios",
@@ -1424,7 +1424,7 @@
                 "open_issues": 15,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxCoreLocation",
-                "stars": 181,
+                "stars": 180,
                 "topics": [
                   "cllocationmanager",
                   "corelocation",
@@ -1474,7 +1474,7 @@
                 "open_issues": 11,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxCoreData",
-                "stars": 164,
+                "stars": 163,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
@@ -1558,27 +1558,6 @@
             },
             {
               "node_type": "item",
-              "title": "RxStarscream",
-              "description": "A lightweight extension to subscribe Starscream websocket events with RxSwift",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A lightweight extension to subscribe  Starscream websocket events with RxSwift",
-                "homepage": null,
-                "id": 59126861,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2023-12-11T18:36:21Z",
-                "open_issues": 6,
-                "owner": "RxSwiftCommunity",
-                "repo": "RxStarscream",
-                "stars": 146,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:01:02.776Z"
-            },
-            {
-              "node_type": "item",
               "title": "RxNuke",
               "description": "RxSwift extensions for Nuke",
               "children": [],
@@ -1603,6 +1582,27 @@
             },
             {
               "node_type": "item",
+              "title": "RxStarscream",
+              "description": "A lightweight extension to subscribe Starscream websocket events with RxSwift",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A lightweight extension to subscribe  Starscream websocket events with RxSwift",
+                "homepage": null,
+                "id": 59126861,
+                "language": "Swift",
+                "license": "MIT",
+                "last_commit": "2023-12-11T18:36:21Z",
+                "open_issues": 6,
+                "owner": "RxSwiftCommunity",
+                "repo": "RxStarscream",
+                "stars": 145,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:01:02.776Z"
+            },
+            {
+              "node_type": "item",
               "title": "RxLocalizer",
               "description": "RxLocalizer allows you to localize your apps, using RxSwift 🚀",
               "children": [],
@@ -1617,7 +1617,7 @@
                 "open_issues": 0,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxLocalizer",
-                "stars": 134,
+                "stars": 133,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
@@ -1705,7 +1705,7 @@
                 "open_issues": 0,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxMKMapView",
-                "stars": 119,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
@@ -1807,7 +1807,7 @@
                 "open_issues": 4,
                 "owner": "glassonion1",
                 "repo": "RxStoreKit",
-                "stars": 108,
+                "stars": 107,
                 "topics": [
                   "functional",
                   "ios",
@@ -1837,7 +1837,7 @@
                 "open_issues": 4,
                 "owner": "glassonion1",
                 "repo": "RxStoreKit",
-                "stars": 108,
+                "stars": 107,
                 "topics": [
                   "functional",
                   "ios",
@@ -1918,7 +1918,7 @@
                 "open_issues": 4,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxGoogleMaps",
-                "stars": 94,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
@@ -2065,7 +2065,7 @@
                 "open_issues": 0,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxAlert",
-                "stars": 49,
+                "stars": 48,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T16:07:36.144Z",
+    "last_updated": "2026-10-01T16:43:53.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",

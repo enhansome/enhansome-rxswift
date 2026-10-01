@@ -11,7 +11,7 @@
 
 ## Open-Source-Apps
 
-* [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,114 | 🐛 27 | 🌐 Swift | 📅 2026-02-15 Github iOS client written in RxSwift and MVVM clean architecture
+* [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,113 | 🐛 27 | 🌐 Swift | 📅 2026-02-15 Github iOS client written in RxSwift and MVVM clean architecture
 * [eidolon](https://github.com/artsy/eidolon) ⚠️ Archived The Artsy Auction Kiosk App
 * [RxTodo](https://github.com/devxoul/RxTodo) ⭐ 1,286 | 🐛 9 | 🌐 Swift | 📅 2022-10-05 iOS Todo Application with RxSwift + MVVM
 * [Papr](https://github.com/jdisho/Papr) ⚠️ Archived :octocat: An Unsplash app for iOS.
@@ -34,23 +34,23 @@
 ## Libraries
 
 * [Moya](https://github.com/Moya/Moya) ⭐ 15,353 | 🐛 177 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
-* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,103 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift
-* [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) ⭐ 3,090 | 🐛 88 | 🌐 Swift | 📅 2024-07-10Table and Collection View Data Sources for RxSwift
-* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,392 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
+* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,102 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift
+* [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) ⭐ 3,089 | 🐛 88 | 🌐 Swift | 📅 2024-07-10Table and Collection View Data Sources for RxSwift
+* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,391 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) ⭐ 1,909 | 🐛 2 | 🌐 Swift | 📅 2025-05-21 RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern
-* [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire) ⭐ 1,618 | 🐛 22 | 🌐 Swift | 📅 2024-04-04 RxSwift wrapper around the elegant HTTP networking in Swift Alamofire
+* [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire) ⭐ 1,617 | 🐛 22 | 🌐 Swift | 📅 2024-04-04 RxSwift wrapper around the elegant HTTP networking in Swift Alamofire
 * [RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard) ⭐ 1,601 | 🐛 27 | 🌐 Swift | 📅 2026-06-23 Reactive Keyboard in iOS
-* [RxBluetoothKit](https://github.com/Polidea/RxBluetoothKit) ⭐ 1,436 | 🐛 56 | 🌐 Swift | 📅 2024-03-05 iOS & OSX Bluetooth library for RxSwift
-* [RxGesture](https://github.com/RxSwiftCommunity/RxGesture) ⭐ 1,379 | 🐛 7 | 🌐 Swift | 📅 2026-04-08 RxSwift reactive wrapper for view gestures
+* [RxBluetoothKit](https://github.com/Polidea/RxBluetoothKit) ⭐ 1,435 | 🐛 56 | 🌐 Swift | 📅 2024-03-05 iOS & OSX Bluetooth library for RxSwift
+* [RxGesture](https://github.com/RxSwiftCommunity/RxGesture) ⭐ 1,378 | 🐛 7 | 🌐 Swift | 📅 2026-04-08 RxSwift reactive wrapper for view gestures
 * [RxSwiftExt](https://github.com/RxSwiftCommunity/RxSwiftExt) ⭐ 1,354 | 🐛 16 | 🌐 Swift | 📅 2023-09-20 Additional operators not found in the core RxSwift distribution
-* [RxRealm](https://github.com/RxSwiftCommunity/RxRealm) ⭐ 1,159 | 🐛 16 | 🌐 Swift | 📅 2025-07-29 RxSwift extension for RealmSwift's types
-* [RxCombine](https://github.com/freak4pc/RxCombine) ⭐ 1,046 | 🐛 7 | 🌐 Swift | 📅 2024-04-21 Bi-directional type bridging between RxSwift and Apple's Combine framework
+* [RxRealm](https://github.com/RxSwiftCommunity/RxRealm) ⭐ 1,158 | 🐛 16 | 🌐 Swift | 📅 2025-07-29 RxSwift extension for RealmSwift's types
+* [RxCombine](https://github.com/freak4pc/RxCombine) ⭐ 1,045 | 🐛 7 | 🌐 Swift | 📅 2024-04-21 Bi-directional type bridging between RxSwift and Apple's Combine framework
 * [RxFeedback](https://github.com/kzaher/RxFeedback) ⭐ 1,018 | 🐛 18 | 🌐 Swift | 📅 2023-09-21 Feedback loops architecture for RxSwift
-* [Action](https://github.com/RxSwiftCommunity/Action) ⭐ 872 | 🐛 26 | 🌐 Swift | 📅 2023-10-17 Abstracts actions to be performed in RxSwift.
+* [Action](https://github.com/RxSwiftCommunity/Action) ⭐ 871 | 🐛 26 | 🌐 Swift | 📅 2023-10-17 Abstracts actions to be performed in RxSwift.
 * [RxAutomaton](https://github.com/inamiy/RxAutomaton) ⚠️ Archived RxSwift + State Machine, inspired by Redux and Elm.
-* [RxOptional](https://github.com/RxSwiftCommunity/RxOptional) ⭐ 694 | 🐛 6 | 🌐 Swift | 📅 2026-04-08 RxSwift extensions for Swift optionals and "Occupiable" types
-* [RxOptional](https://github.com/RxSwiftCommunity/RxOptional) ⭐ 694 | 🐛 6 | 🌐 Swift | 📅 2026-04-08 RxSwift extensions for Swift optionals and "Occupiable" types
-* [RxAnimated](https://github.com/RxSwiftCommunity/RxAnimated) ⭐ 682 | 🐛 11 | 🌐 Swift | 📅 2021-10-04 Animated RxCocoa bindings
+* [RxOptional](https://github.com/RxSwiftCommunity/RxOptional) ⭐ 693 | 🐛 6 | 🌐 Swift | 📅 2026-04-08 RxSwift extensions for Swift optionals and "Occupiable" types
+* [RxOptional](https://github.com/RxSwiftCommunity/RxOptional) ⭐ 693 | 🐛 6 | 🌐 Swift | 📅 2026-04-08 RxSwift extensions for Swift optionals and "Occupiable" types
+* [RxAnimated](https://github.com/RxSwiftCommunity/RxAnimated) ⭐ 681 | 🐛 11 | 🌐 Swift | 📅 2021-10-04 Animated RxCocoa bindings
 * [NSObject-Rx](https://github.com/RxSwiftCommunity/NSObject-Rx) ⭐ 644 | 🐛 9 | 🌐 Swift | 📅 2025-12-18 Handy RxSwift extensions on NSObject, including rx\_disposeBag.
 * [iOS-Awesome-Starter-Kit](https://github.com/NghiaTranUIT/iOS-Awesome-Starter-Kit) ⭐ 606 | 🐛 2 | 🌐 Swift | 📅 2017-03-20 The perfect combination: Clean Swift + ReSwift + PromiseKit
 * [RxViewModel](https://github.com/RxSwiftCommunity/RxViewModel) ⭐ 396 | 🐛 14 | 🌐 Swift | 📅 2023-01-20 ReactiveViewModel-esque using RxSwift
@@ -58,44 +58,44 @@
 * [RxTheme](https://github.com/RxSwiftCommunity/RxTheme) ⭐ 376 | 🐛 1 | 🌐 Swift | 📅 2021-04-23 Theme management based on Rx
 * [Reactant](https://github.com/Brightify/Reactant) ⭐ 369 | 🐛 8 | 🌐 Swift | 📅 2021-11-09 Reactant is a reactive architecture for iOS <https://www.reactant.tech>
 * [RxPagination](https://github.com/tryswift/RxPagination) ⭐ 358 | 🐛 1 | 🌐 Swift | 📅 2017-10-12 The demo project for "Protocol-Oriented Programming in Networking".
-* [RxViewController](https://github.com/devxoul/RxViewController) ⭐ 343 | 🐛 6 | 🌐 Swift | 📅 2022-03-28 RxSwift wrapper for UIViewController and NSViewController
-* [RxReachability](https://github.com/RxSwiftCommunity/RxReachability) ⭐ 284 | 🐛 1 | 🌐 Swift | 📅 2022-09-01 RxSwift bindings for Reachability
+* [RxViewController](https://github.com/devxoul/RxViewController) ⭐ 342 | 🐛 6 | 🌐 Swift | 📅 2022-03-28 RxSwift wrapper for UIViewController and NSViewController
+* [RxReachability](https://github.com/RxSwiftCommunity/RxReachability) ⭐ 283 | 🐛 1 | 🌐 Swift | 📅 2022-09-01 RxSwift bindings for Reachability
 * [RxNimble](https://github.com/RxSwiftCommunity/RxNimble) ⭐ 262 | 🐛 2 | 🌐 Swift | 📅 2023-10-17 Nimble extensions that making unit testing with RxSwift easier
-* [RxWebKit](https://github.com/RxSwiftCommunity/RxWebKit) ⭐ 251 | 🐛 17 | 🌐 Swift | 📅 2023-05-22 RxWebKit is a RxSwift wrapper for WebKit
+* [RxWebKit](https://github.com/RxSwiftCommunity/RxWebKit) ⭐ 250 | 🐛 17 | 🌐 Swift | 📅 2023-05-22 RxWebKit is a RxSwift wrapper for WebKit
 * [RxPermission](https://github.com/sunshinejr/RxPermission) ⚠️ Archived RxSwift bindings for Permissions API in iOS.
 * [RxPermission](https://github.com/sunshinejr/RxPermission) ⚠️ Archived RxSwift bindings for Permissions API in iOS.
-* [RxKingfisher](https://github.com/RxSwiftCommunity/RxKingfisher) ⭐ 223 | 🐛 4 | 🌐 Swift | 📅 2022-06-04 Reactive extension for the Kingfisher image downloading and caching library
+* [RxKingfisher](https://github.com/RxSwiftCommunity/RxKingfisher) ⭐ 222 | 🐛 4 | 🌐 Swift | 📅 2022-06-04 Reactive extension for the Kingfisher image downloading and caching library
 * [RxFirebase](https://github.com/RxSwiftCommunity/RxFirebase) ⭐ 221 | 🐛 13 | 🌐 Swift | 📅 2023-08-06 RxSwift extensions for Firebase
 * [RxGRDB](https://github.com/RxSwiftCommunity/RxGRDB) ⭐ 219 | 🐛 0 | 🌐 Swift | 📅 2025-09-28 Reactive extensions for SQLite
 * [RxSwiftUtilities](https://github.com/RxSwiftCommunity/RxSwiftUtilities) ⭐ 186 | 🐛 1 | 🌐 Swift | 📅 2021-12-05 Helpful classes and extensions for RxSwift
-* [RxCoreLocation](https://github.com/RxSwiftCommunity/RxCoreLocation) ⭐ 181 | 🐛 15 | 🌐 Swift | 📅 2022-03-26 RxCoreLocation is a reactive abstraction to manage Core Location.
+* [RxCoreLocation](https://github.com/RxSwiftCommunity/RxCoreLocation) ⭐ 180 | 🐛 15 | 🌐 Swift | 📅 2022-03-26 RxCoreLocation is a reactive abstraction to manage Core Location.
 * [RxMediaPicker](https://github.com/RxSwiftCommunity/RxMediaPicker) ⭐ 180 | 🐛 12 | 🌐 Swift | 📅 2021-02-14 A reactive wrapper built around UIImagePickerController.
-* [RxCoreData](https://github.com/RxSwiftCommunity/RxCoreData) ⭐ 164 | 🐛 11 | 🌐 C | 📅 2021-01-05 RxSwift extensions for Core Data
+* [RxCoreData](https://github.com/RxSwiftCommunity/RxCoreData) ⭐ 163 | 🐛 11 | 🌐 C | 📅 2021-01-05 RxSwift extensions for Core Data
 * [RxRealmDataSources](https://github.com/RxSwiftCommunity/RxRealmDataSources) ⭐ 157 | 🐛 10 | 🌐 Swift | 📅 2022-01-08 An easy way to bind an RxRealm observable to a table or collection view
 * [RxValidator](https://github.com/vbmania/RxValidator) ⭐ 155 | 🐛 0 | 🌐 Swift | 📅 2018-11-09 Easy to Use, Read, Extensible, Flexible Validation Checker
 * [RxState](https://github.com/RxSwiftCommunity/RxState) ⭐ 152 | 🐛 3 | 🌐 Swift | 📅 2023-04-12 Redux implementation in Swift using RxSwift
-* [RxStarscream](https://github.com/RxSwiftCommunity/RxStarscream) ⭐ 146 | 🐛 6 | 🌐 Swift | 📅 2023-12-11 A lightweight extension to subscribe Starscream websocket events with RxSwift
 * [RxNuke](https://github.com/kean/RxNuke) ⭐ 146 | 🐛 0 | 🌐 Swift | 📅 2023-03-04 RxSwift extensions for Nuke
-* [RxLocalizer](https://github.com/RxSwiftCommunity/RxLocalizer) ⭐ 134 | 🐛 0 | 🌐 Swift | 📅 2022-03-12 RxLocalizer allows you to localize your apps, using RxSwift 🚀
+* [RxStarscream](https://github.com/RxSwiftCommunity/RxStarscream) ⭐ 145 | 🐛 6 | 🌐 Swift | 📅 2023-12-11 A lightweight extension to subscribe Starscream websocket events with RxSwift
+* [RxLocalizer](https://github.com/RxSwiftCommunity/RxLocalizer) ⭐ 133 | 🐛 0 | 🌐 Swift | 📅 2022-03-12 RxLocalizer allows you to localize your apps, using RxSwift 🚀
 * [RxSpriteKit](https://github.com/giginet/RxSpriteKit) ⭐ 131 | 🐛 0 | 🌐 Swift | 📅 2020-01-30 Reactive Extensions for SpriteKit 👾
 * [RxReduce](https://github.com/RxSwiftCommunity/RxReduce) ⚠️ Archived RxReduce is a lightweight framework that ease the implementation of a state container pattern in a Reactive Programming compliant way.
 * [RxBiBinding](https://github.com/RxSwiftCommunity/RxBiBinding) ⭐ 124 | 🐛 0 | 🌐 Swift | 📅 2021-01-25 Reactive two-way binding
-* [RxMKMapView](https://github.com/RxSwiftCommunity/RxMKMapView) ⭐ 119 | 🐛 0 | 🌐 Swift | 📅 2024-02-06 RxMKMapView is a RxSwift wrapper for MKMapView `delegate`
+* [RxMKMapView](https://github.com/RxSwiftCommunity/RxMKMapView) ⭐ 118 | 🐛 0 | 🌐 Swift | 📅 2024-02-06 RxMKMapView is a RxSwift wrapper for MKMapView `delegate`
 * [RxASDataSources](https://github.com/RxSwiftCommunity/RxASDataSources) ⭐ 116 | 🐛 7 | 🌐 Swift | 📅 2022-04-08 RxDataSource for AsyncDisplayKit/Texture
 * [RxCodable](https://github.com/devxoul/RxCodable) ⭐ 113 | 🐛 1 | 🌐 Swift | 📅 2019-06-15 RxSwift wrapper for Codable
 * [ObservableArray-RxSwift](https://github.com/safx/ObservableArray-RxSwift) ⚠️ Archived An array that can emit messages of elements and diffs on it's changing.
-* [RxStoreKit](https://github.com/glassonion1/RxStoreKit) ⭐ 108 | 🐛 4 | 🌐 Swift | 📅 2021-01-05 RxStoreKit is lightweight and easy to use Rx support for StoreKit(In-App Purchases).
-* [RxStoreKit](https://github.com/glassonion1/RxStoreKit) ⭐ 108 | 🐛 4 | 🌐 Swift | 📅 2021-01-05 RxStoreKit is lightweight and easy to use Rx support for StoreKit(In-App Purchases).
+* [RxStoreKit](https://github.com/glassonion1/RxStoreKit) ⭐ 107 | 🐛 4 | 🌐 Swift | 📅 2021-01-05 RxStoreKit is lightweight and easy to use Rx support for StoreKit(In-App Purchases).
+* [RxStoreKit](https://github.com/glassonion1/RxStoreKit) ⭐ 107 | 🐛 4 | 🌐 Swift | 📅 2021-01-05 RxStoreKit is lightweight and easy to use Rx support for StoreKit(In-App Purchases).
 * [RxExpect](https://github.com/devxoul/RxExpect) ⚠️ Archived RxSwift testing framework
 * [RxCocoa-Texture](https://github.com/RxSwiftCommunity/RxCocoa-Texture) ⭐ 99 | 🐛 7 | 🌐 Swift | 📅 2021-11-05 RxCocoa Extension Library for Texture.
-* [RxGoogleMaps](https://github.com/RxSwiftCommunity/RxGoogleMaps) ⭐ 94 | 🐛 4 | 🌐 Swift | 📅 2023-07-10 RxSwift reactive wrapper for GoogleMaps SDK
+* [RxGoogleMaps](https://github.com/RxSwiftCommunity/RxGoogleMaps) ⭐ 93 | 🐛 4 | 🌐 Swift | 📅 2023-07-10 RxSwift reactive wrapper for GoogleMaps SDK
 * [RxSegue](https://github.com/RxSwiftCommunity/RxSegue) ⭐ 79 | 🐛 3 | 🌐 Swift | 📅 2017-11-27 Reactive generic segue, implemented with RxSwift.
 * [FirebaseRxSwiftExtensions](https://github.com/RxSwiftCommunity/FirebaseRxSwiftExtensions) ⭐ 76 | 🐛 2 | 🌐 Swift | 📅 2016-05-21 Extension Methods for Firebase and RxSwift
 * [RxGitHubAPI](https://github.com/FengDeng/RxGitHubAPI) ⭐ 72 | 🐛 1 | 🌐 Swift | 📅 2017-04-18 A GitHubAPI base on Stream by RxSwift
 * [RxFileMonitor](https://github.com/RxSwiftCommunity/RxFileMonitor) ⭐ 61 | 🐛 3 | 🌐 Swift | 📅 2025-01-04 RxSwift wrapper around CoreFoundation file events (FSEvent\*) <http://cleancocoa.com/>
 * [RxPager](https://github.com/RxSwiftCommunity/RxPager) ⭐ 60 | 🐛 4 | 🌐 Swift | 📅 2022-09-05 Pager for RxSwift
 * [RxCoreMotion](https://github.com/RxSwiftCommunity/RxCoreMotion) ⭐ 59 | 🐛 3 | 🌐 Swift | 📅 2021-01-20 Provides an easy and straight-forward way to use Apple iOS CoreMotion responses as Rx Observables.
-* [RxAlert](https://github.com/RxSwiftCommunity/RxAlert) ⭐ 49 | 🐛 0 | 🌐 Swift | 📅 2024-08-05 UIAlertController using RxSwift.
+* [RxAlert](https://github.com/RxSwiftCommunity/RxAlert) ⭐ 48 | 🐛 0 | 🌐 Swift | 📅 2024-08-05 UIAlertController using RxSwift.
 * [RxDucks](https://github.com/cats-oss/RxDucks) ⭐ 39 | 🐛 0 | 🌐 Swift | 📅 2019-04-24 🦆 RxDucks is a Redux-like framework working on RxSwift.
 * [rxswift-notifications](https://github.com/leandromperez/rxswift-notifications) ⭐ 32 | 🐛 1 | 🌐 Swift | 📅 2020-04-28 A small group of extensions on top of NSNotification center and RxSwift that allows for strong-typed notifications
 * [Cycle.swift](https://github.com/BrianSemiglia/Cycle.swift) ⭐ 25 | 🐛 1 | 🌐 Swift | 📅 2023-01-25 Cyclical observable for unidirectional architectures inspired by [cycle.js](https://github.com/cyclejs/cyclejs) ⭐ 10,225 | 🐛 132 | 🌐 TypeScript | 📅 2026-06-09.
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
