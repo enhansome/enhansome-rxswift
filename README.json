@@ -55,7 +55,7 @@
                 "open_issues": 42,
                 "owner": "artsy",
                 "repo": "eidolon",
-                "stars": 2691,
+                "stars": 2690,
                 "topics": [
                   "artsy",
                   "auction-kiosk",
@@ -508,7 +508,7 @@
                 "open_issues": 177,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15353,
+                "stars": 15352,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -596,7 +596,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2391,
+                "stars": 2389,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -978,7 +978,7 @@
                 "open_issues": 11,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxAnimated",
-                "stars": 681,
+                "stars": 682,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T16:43:53.592Z",
+    "last_updated": "2026-10-02T15:59:30.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",

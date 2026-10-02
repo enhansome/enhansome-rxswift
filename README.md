@@ -33,10 +33,10 @@
 
 ## Libraries
 
-* [Moya](https://github.com/Moya/Moya) ⭐ 15,353 | 🐛 177 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
+* [Moya](https://github.com/Moya/Moya) ⭐ 15,352 | 🐛 177 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
 * [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,102 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift
 * [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) ⭐ 3,089 | 🐛 88 | 🌐 Swift | 📅 2024-07-10Table and Collection View Data Sources for RxSwift
-* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,391 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
+* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,389 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) ⭐ 1,909 | 🐛 2 | 🌐 Swift | 📅 2025-05-21 RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern
 * [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire) ⭐ 1,617 | 🐛 22 | 🌐 Swift | 📅 2024-04-04 RxSwift wrapper around the elegant HTTP networking in Swift Alamofire
 * [RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard) ⭐ 1,601 | 🐛 27 | 🌐 Swift | 📅 2026-06-23 Reactive Keyboard in iOS
@@ -50,7 +50,7 @@
 * [RxAutomaton](https://github.com/inamiy/RxAutomaton) ⚠️ Archived RxSwift + State Machine, inspired by Redux and Elm.
 * [RxOptional](https://github.com/RxSwiftCommunity/RxOptional) ⭐ 693 | 🐛 6 | 🌐 Swift | 📅 2026-04-08 RxSwift extensions for Swift optionals and "Occupiable" types
 * [RxOptional](https://github.com/RxSwiftCommunity/RxOptional) ⭐ 693 | 🐛 6 | 🌐 Swift | 📅 2026-04-08 RxSwift extensions for Swift optionals and "Occupiable" types
-* [RxAnimated](https://github.com/RxSwiftCommunity/RxAnimated) ⭐ 681 | 🐛 11 | 🌐 Swift | 📅 2021-10-04 Animated RxCocoa bindings
+* [RxAnimated](https://github.com/RxSwiftCommunity/RxAnimated) ⭐ 682 | 🐛 11 | 🌐 Swift | 📅 2021-10-04 Animated RxCocoa bindings
 * [NSObject-Rx](https://github.com/RxSwiftCommunity/NSObject-Rx) ⭐ 644 | 🐛 9 | 🌐 Swift | 📅 2025-12-18 Handy RxSwift extensions on NSObject, including rx\_disposeBag.
 * [iOS-Awesome-Starter-Kit](https://github.com/NghiaTranUIT/iOS-Awesome-Starter-Kit) ⭐ 606 | 🐛 2 | 🌐 Swift | 📅 2017-03-20 The perfect combination: Clean Swift + ReSwift + PromiseKit
 * [RxViewModel](https://github.com/RxSwiftCommunity/RxViewModel) ⭐ 396 | 🐛 14 | 🌐 Swift | 📅 2023-01-20 ReactiveViewModel-esque using RxSwift
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
