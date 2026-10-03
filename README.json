@@ -108,7 +108,7 @@
                 "open_issues": 19,
                 "owner": "jdisho",
                 "repo": "Papr",
-                "stars": 1140,
+                "stars": 1139,
                 "topics": [
                   "ios",
                   "ios-app",
@@ -140,7 +140,7 @@
                 "open_issues": 3,
                 "owner": "DroidsOnRoids",
                 "repo": "RxSwiftExamples",
-                "stars": 969,
+                "stars": 968,
                 "topics": [
                   "alamofire",
                   "examples",
@@ -237,7 +237,7 @@
                 "open_issues": 0,
                 "owner": "k-lpmg",
                 "repo": "GiTiny",
-                "stars": 280,
+                "stars": 279,
                 "topics": [
                   "clean-architecture",
                   "github-app",
@@ -505,7 +505,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-07-14T22:07:40Z",
-                "open_issues": 177,
+                "open_issues": 178,
                 "owner": "Moya",
                 "repo": "Moya",
                 "stars": 15352,
@@ -821,7 +821,7 @@
                 "open_issues": 7,
                 "owner": "CombineCommunity",
                 "repo": "RxCombine",
-                "stars": 1045,
+                "stars": 1044,
                 "topics": [
                   "applecombine",
                   "combine",
@@ -2230,7 +2230,7 @@
             {
               "node_type": "item",
               "title": "The-introduction-to-RxSwift-you-have-been-missing",
-              "description": null,
+              "description": "orakaro/The-introduction-to-RxSwift-you-have-been-missing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:59:30.654Z",
+    "last_updated": "2026-10-03T05:04:51.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",

@@ -15,11 +15,11 @@
 * [eidolon](https://github.com/artsy/eidolon) ⚠️ Archived The Artsy Auction Kiosk App
 * [RxTodo](https://github.com/devxoul/RxTodo) ⭐ 1,286 | 🐛 9 | 🌐 Swift | 📅 2022-10-05 iOS Todo Application with RxSwift + MVVM
 * [Papr](https://github.com/jdisho/Papr) ⚠️ Archived :octocat: An Unsplash app for iOS.
-* [RxSwiftExamples](https://github.com/DroidsOnRoids/RxSwiftExamples) ⭐ 969 | 🐛 3 | 🌐 Swift | 📅 2019-10-24 Examples and resources for RxSwift.
+* [RxSwiftExamples](https://github.com/DroidsOnRoids/RxSwiftExamples) ⭐ 968 | 🐛 3 | 🌐 Swift | 📅 2019-10-24 Examples and resources for RxSwift.
 * [RxMarbles](https://github.com/RxSwiftCommunity/RxMarbles) ⭐ 475 | 🐛 2 | 🌐 Swift | 📅 2020-06-25 RxMarbles iOS app
 * [ZhiHu-RxSwift](https://github.com/kLike/ZhiHu-RxSwift) ⭐ 371 | 🐛 4 | 🌐 Swift | 📅 2025-03-12 ZhiHu Daily with RxSwift
 * [RxXMLY](https://github.com/sessionCh/RxXMLY) ⭐ 321 | 🐛 2 | 🌐 Swift | 📅 2018-02-06 XiMaLaYa with RxSwift
-* [GiTiny](https://github.com/k-lpmg/GiTiny) ⭐ 280 | 🐛 0 | 🌐 Swift | 📅 2019-12-31 An iOS app for GitHub with exploring trending, Written in RxSwift and MVVM-C architecture.
+* [GiTiny](https://github.com/k-lpmg/GiTiny) ⭐ 279 | 🐛 0 | 🌐 Swift | 📅 2019-12-31 An iOS app for GitHub with exploring trending, Written in RxSwift and MVVM-C architecture.
 * [Passcode](https://github.com/cruisediary/Passcode) ⭐ 253 | 🐛 0 | 🌐 Swift | 📅 2019-08-24 🔑 Passcode for iOS Rxswift, ReactorKit and IGListKit example
 * [ReactiveWeatherExample](https://github.com/marinbenc/ReactiveWeatherExample) ⭐ 199 | 🐛 1 | 🌐 Swift | 📅 2018-03-09 A simple iOS weather app using the MVVM pattern and RxSwift framework
 * [100-days-of-RxSwift](https://github.com/Edison-Hsu/100-days-of-RxSwift) ⭐ 199 | 🐛 1 | 🌐 Swift | 📅 2024-10-24 💨100 days and 40 project of RxSwift
@@ -33,7 +33,7 @@
 
 ## Libraries
 
-* [Moya](https://github.com/Moya/Moya) ⭐ 15,352 | 🐛 177 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
+* [Moya](https://github.com/Moya/Moya) ⭐ 15,352 | 🐛 178 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
 * [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,102 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift
 * [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) ⭐ 3,089 | 🐛 88 | 🌐 Swift | 📅 2024-07-10Table and Collection View Data Sources for RxSwift
 * [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,389 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
@@ -44,7 +44,7 @@
 * [RxGesture](https://github.com/RxSwiftCommunity/RxGesture) ⭐ 1,378 | 🐛 7 | 🌐 Swift | 📅 2026-04-08 RxSwift reactive wrapper for view gestures
 * [RxSwiftExt](https://github.com/RxSwiftCommunity/RxSwiftExt) ⭐ 1,354 | 🐛 16 | 🌐 Swift | 📅 2023-09-20 Additional operators not found in the core RxSwift distribution
 * [RxRealm](https://github.com/RxSwiftCommunity/RxRealm) ⭐ 1,158 | 🐛 16 | 🌐 Swift | 📅 2025-07-29 RxSwift extension for RealmSwift's types
-* [RxCombine](https://github.com/freak4pc/RxCombine) ⭐ 1,045 | 🐛 7 | 🌐 Swift | 📅 2024-04-21 Bi-directional type bridging between RxSwift and Apple's Combine framework
+* [RxCombine](https://github.com/freak4pc/RxCombine) ⭐ 1,044 | 🐛 7 | 🌐 Swift | 📅 2024-04-21 Bi-directional type bridging between RxSwift and Apple's Combine framework
 * [RxFeedback](https://github.com/kzaher/RxFeedback) ⭐ 1,018 | 🐛 18 | 🌐 Swift | 📅 2023-09-21 Feedback loops architecture for RxSwift
 * [Action](https://github.com/RxSwiftCommunity/Action) ⭐ 871 | 🐛 26 | 🌐 Swift | 📅 2023-10-17 Abstracts actions to be performed in RxSwift.
 * [RxAutomaton](https://github.com/inamiy/RxAutomaton) ⚠️ Archived RxSwift + State Machine, inspired by Redux and Elm.
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
