@@ -21,7 +21,7 @@
                 "open_issues": 27,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3113,
+                "stars": 3114,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -508,7 +508,7 @@
                 "open_issues": 178,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15352,
+                "stars": 15353,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:26:56.237Z",
+    "last_updated": "2026-10-04T15:00:51.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
