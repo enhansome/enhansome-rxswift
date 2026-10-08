@@ -46,7 +46,7 @@
 * [RxRealm](https://github.com/RxSwiftCommunity/RxRealm) ⭐ 1,158 | 🐛 16 | 🌐 Swift | 📅 2025-07-29 RxSwift extension for RealmSwift's types
 * [RxCombine](https://github.com/freak4pc/RxCombine) ⭐ 1,044 | 🐛 7 | 🌐 Swift | 📅 2024-04-21 Bi-directional type bridging between RxSwift and Apple's Combine framework
 * [RxFeedback](https://github.com/kzaher/RxFeedback) ⭐ 1,018 | 🐛 18 | 🌐 Swift | 📅 2023-09-21 Feedback loops architecture for RxSwift
-* [Action](https://github.com/RxSwiftCommunity/Action) ⭐ 871 | 🐛 26 | 🌐 Swift | 📅 2023-10-17 Abstracts actions to be performed in RxSwift.
+* [Action](https://github.com/RxSwiftCommunity/Action) ⭐ 872 | 🐛 26 | 🌐 Swift | 📅 2023-10-17 Abstracts actions to be performed in RxSwift.
 * [RxAutomaton](https://github.com/inamiy/RxAutomaton) ⚠️ Archived RxSwift + State Machine, inspired by Redux and Elm.
 * [RxOptional](https://github.com/RxSwiftCommunity/RxOptional) ⭐ 693 | 🐛 6 | 🌐 Swift | 📅 2026-04-08 RxSwift extensions for Swift optionals and "Occupiable" types
 * [RxOptional](https://github.com/RxSwiftCommunity/RxOptional) ⭐ 693 | 🐛 6 | 🌐 Swift | 📅 2026-04-08 RxSwift extensions for Swift optionals and "Occupiable" types
@@ -98,7 +98,7 @@
 * [RxAlert](https://github.com/RxSwiftCommunity/RxAlert) ⭐ 48 | 🐛 0 | 🌐 Swift | 📅 2024-08-05 UIAlertController using RxSwift.
 * [RxDucks](https://github.com/cats-oss/RxDucks) ⭐ 39 | 🐛 0 | 🌐 Swift | 📅 2019-04-24 🦆 RxDucks is a Redux-like framework working on RxSwift.
 * [rxswift-notifications](https://github.com/leandromperez/rxswift-notifications) ⭐ 32 | 🐛 1 | 🌐 Swift | 📅 2020-04-28 A small group of extensions on top of NSNotification center and RxSwift that allows for strong-typed notifications
-* [Cycle.swift](https://github.com/BrianSemiglia/Cycle.swift) ⭐ 25 | 🐛 1 | 🌐 Swift | 📅 2023-01-25 Cyclical observable for unidirectional architectures inspired by [cycle.js](https://github.com/cyclejs/cyclejs) ⭐ 10,223 | 🐛 136 | 🌐 TypeScript | 📅 2026-06-09.
+* [Cycle.swift](https://github.com/BrianSemiglia/Cycle.swift) ⭐ 25 | 🐛 1 | 🌐 Swift | 📅 2023-01-25 Cyclical observable for unidirectional architectures inspired by [cycle.js](https://github.com/cyclejs/cyclejs) ⭐ 10,222 | 🐛 136 | 🌐 TypeScript | 📅 2026-06-09.
 * [RxTask](https://github.com/RxSwiftCommunity/RxTask) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2017-02-28 An RxSwift implementation of a command line runner.
 * [Moya-ObjectMapper](https://github.com/ivanbruel/Moya-ObjectMapper) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2021-02-15 ObjectMapper bindings for Moya and RxSwift
 * [RxIGListKit](https://github.com/yuzushioh/RxIGListKit) IGListKit with RxSwift🚀
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

@@ -883,7 +883,7 @@
                 "open_issues": 26,
                 "owner": "RxSwiftCommunity",
                 "repo": "Action",
-                "stars": 871,
+                "stars": 872,
                 "topics": [
                   "hacktoberfest",
                   "reactive-extensions",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:02:40.532Z",
+    "last_updated": "2026-10-08T17:00:46.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
