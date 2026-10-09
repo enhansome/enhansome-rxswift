@@ -508,7 +508,7 @@
                 "open_issues": 178,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15353,
+                "stars": 15352,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -596,7 +596,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2389,
+                "stars": 2390,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -883,7 +883,7 @@
                 "open_issues": 26,
                 "owner": "RxSwiftCommunity",
                 "repo": "Action",
-                "stars": 872,
+                "stars": 871,
                 "topics": [
                   "hacktoberfest",
                   "reactive-extensions",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T17:00:46.988Z",
+    "last_updated": "2026-10-09T16:38:59.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
