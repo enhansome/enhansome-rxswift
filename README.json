@@ -536,7 +536,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4101,
+                "stars": 4100,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:38:59.216Z",
+    "last_updated": "2026-10-10T15:36:13.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
