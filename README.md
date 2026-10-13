@@ -50,12 +50,12 @@
 * [RxAutomaton](https://github.com/inamiy/RxAutomaton) ⚠️ Archived RxSwift + State Machine, inspired by Redux and Elm.
 * [RxOptional](https://github.com/RxSwiftCommunity/RxOptional) ⭐ 693 | 🐛 6 | 🌐 Swift | 📅 2026-04-08 RxSwift extensions for Swift optionals and "Occupiable" types
 * [RxOptional](https://github.com/RxSwiftCommunity/RxOptional) ⭐ 693 | 🐛 6 | 🌐 Swift | 📅 2026-04-08 RxSwift extensions for Swift optionals and "Occupiable" types
-* [RxAnimated](https://github.com/RxSwiftCommunity/RxAnimated) ⭐ 682 | 🐛 11 | 🌐 Swift | 📅 2021-10-04 Animated RxCocoa bindings
+* [RxAnimated](https://github.com/RxSwiftCommunity/RxAnimated) ⭐ 681 | 🐛 11 | 🌐 Swift | 📅 2021-10-04 Animated RxCocoa bindings
 * [NSObject-Rx](https://github.com/RxSwiftCommunity/NSObject-Rx) ⭐ 644 | 🐛 9 | 🌐 Swift | 📅 2025-12-18 Handy RxSwift extensions on NSObject, including rx\_disposeBag.
 * [iOS-Awesome-Starter-Kit](https://github.com/NghiaTranUIT/iOS-Awesome-Starter-Kit) ⭐ 605 | 🐛 2 | 🌐 Swift | 📅 2017-03-20 The perfect combination: Clean Swift + ReSwift + PromiseKit
 * [RxViewModel](https://github.com/RxSwiftCommunity/RxViewModel) ⭐ 396 | 🐛 14 | 🌐 Swift | 📅 2023-01-20 ReactiveViewModel-esque using RxSwift
 * [RxAppState](https://github.com/pixeldock/RxAppState) ⭐ 385 | 🐛 0 | 🌐 Swift | 📅 2024-05-24 RxSwift extensions for UIApplicationDelegate methods to observe changes in your app's state
-* [RxTheme](https://github.com/RxSwiftCommunity/RxTheme) ⭐ 376 | 🐛 1 | 🌐 Swift | 📅 2021-04-23 Theme management based on Rx
+* [RxTheme](https://github.com/RxSwiftCommunity/RxTheme) ⭐ 375 | 🐛 1 | 🌐 Swift | 📅 2021-04-23 Theme management based on Rx
 * [Reactant](https://github.com/Brightify/Reactant) ⭐ 369 | 🐛 8 | 🌐 Swift | 📅 2021-11-09 Reactant is a reactive architecture for iOS <https://www.reactant.tech>
 * [RxPagination](https://github.com/tryswift/RxPagination) ⭐ 358 | 🐛 1 | 🌐 Swift | 📅 2017-10-12 The demo project for "Protocol-Oriented Programming in Networking".
 * [RxViewController](https://github.com/devxoul/RxViewController) ⭐ 342 | 🐛 6 | 🌐 Swift | 📅 2022-03-28 RxSwift wrapper for UIViewController and NSViewController
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
