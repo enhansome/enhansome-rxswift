@@ -21,7 +21,7 @@
                 "open_issues": 34,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3117,
+                "stars": 3119,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -55,7 +55,7 @@
                 "open_issues": 42,
                 "owner": "artsy",
                 "repo": "eidolon",
-                "stars": 2688,
+                "stars": 2689,
                 "topics": [
                   "artsy",
                   "auction-kiosk",
@@ -508,7 +508,7 @@
                 "open_issues": 178,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15350,
+                "stars": 15349,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -681,7 +681,7 @@
                 "open_issues": 27,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxKeyboard",
-                "stars": 1601,
+                "stars": 1602,
                 "topics": [
                   "ios",
                   "keyboard",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:38:23.470Z",
+    "last_updated": "2026-10-19T16:39:49.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
