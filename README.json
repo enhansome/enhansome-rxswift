@@ -536,7 +536,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4099,
+                "stars": 4098,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -629,7 +629,7 @@
                 "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxFlow",
-                "stars": 1909,
+                "stars": 1907,
                 "topics": [
                   "coordinator",
                   "flow",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T16:39:49.540Z",
+    "last_updated": "2026-10-20T14:32:28.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
