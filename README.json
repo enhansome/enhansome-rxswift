@@ -136,8 +136,8 @@
                 "id": 51301474,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2019-10-24T09:43:21Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-21T07:41:57Z",
+                "open_issues": 4,
                 "owner": "DroidsOnRoids",
                 "repo": "RxSwiftExamples",
                 "stars": 968,
@@ -508,7 +508,7 @@
                 "open_issues": 178,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15349,
+                "stars": 15350,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -536,7 +536,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4098,
+                "stars": 4097,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -596,7 +596,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2390,
+                "stars": 2391,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T14:32:28.874Z",
+    "last_updated": "2026-10-21T14:42:59.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
