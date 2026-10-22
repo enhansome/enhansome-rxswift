@@ -508,7 +508,7 @@
                 "open_issues": 178,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15350,
+                "stars": 15353,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -790,8 +790,8 @@
                 "id": 56589037,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2025-07-29T02:48:51Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-22T03:58:48Z",
+                "open_issues": 8,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxRealm",
                 "stars": 1158,
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:42:59.071Z",
+    "last_updated": "2026-10-22T14:43:06.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
