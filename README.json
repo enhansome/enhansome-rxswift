@@ -140,7 +140,7 @@
                 "open_issues": 4,
                 "owner": "DroidsOnRoids",
                 "repo": "RxSwiftExamples",
-                "stars": 967,
+                "stars": 966,
                 "topics": [
                   "alamofire",
                   "examples",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:29:49.274Z",
+    "last_updated": "2026-10-24T13:40:38.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",

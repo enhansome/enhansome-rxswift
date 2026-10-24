@@ -15,7 +15,7 @@
 * [eidolon](https://github.com/artsy/eidolon) ⚠️ Archived The Artsy Auction Kiosk App
 * [RxTodo](https://github.com/devxoul/RxTodo) ⭐ 1,286 | 🐛 9 | 🌐 Swift | 📅 2022-10-05 iOS Todo Application with RxSwift + MVVM
 * [Papr](https://github.com/jdisho/Papr) ⚠️ Archived :octocat: An Unsplash app for iOS.
-* [RxSwiftExamples](https://github.com/DroidsOnRoids/RxSwiftExamples) ⭐ 967 | 🐛 4 | 🌐 Swift | 📅 2026-10-21 Examples and resources for RxSwift.
+* [RxSwiftExamples](https://github.com/DroidsOnRoids/RxSwiftExamples) ⭐ 966 | 🐛 4 | 🌐 Swift | 📅 2026-10-21 Examples and resources for RxSwift.
 * [RxMarbles](https://github.com/RxSwiftCommunity/RxMarbles) ⭐ 475 | 🐛 2 | 🌐 Swift | 📅 2020-06-25 RxMarbles iOS app
 * [ZhiHu-RxSwift](https://github.com/kLike/ZhiHu-RxSwift) ⭐ 371 | 🐛 4 | 🌐 Swift | 📅 2025-03-12 ZhiHu Daily with RxSwift
 * [RxXMLY](https://github.com/sessionCh/RxXMLY) ⭐ 321 | 🐛 2 | 🌐 Swift | 📅 2018-02-06 XiMaLaYa with RxSwift
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
