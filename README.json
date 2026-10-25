@@ -508,7 +508,7 @@
                 "open_issues": 178,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15351,
+                "stars": 15352,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -821,7 +821,7 @@
                 "open_issues": 7,
                 "owner": "CombineCommunity",
                 "repo": "RxCombine",
-                "stars": 1044,
+                "stars": 1043,
                 "topics": [
                   "applecombine",
                   "combine",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:40:38.216Z",
+    "last_updated": "2026-10-25T13:58:58.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
