@@ -508,7 +508,7 @@
                 "open_issues": 178,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15352,
+                "stars": 15353,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -596,7 +596,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2391,
+                "stars": 2390,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -790,8 +790,8 @@
                 "id": 56589037,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-22T03:58:48Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-26T00:27:28Z",
+                "open_issues": 7,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxRealm",
                 "stars": 1157,
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:58:58.725Z",
+    "last_updated": "2026-10-26T16:20:07.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
