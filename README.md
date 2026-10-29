@@ -36,7 +36,7 @@
 * [Moya](https://github.com/Moya/Moya) ⭐ 15,353 | 🐛 177 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
 * [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,097 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift
 * [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) ⭐ 3,086 | 🐛 88 | 🌐 Swift | 📅 2024-07-10Table and Collection View Data Sources for RxSwift
-* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,390 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
+* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,391 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) ⭐ 1,906 | 🐛 2 | 🌐 Swift | 📅 2025-05-21 RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern
 * [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire) ⭐ 1,617 | 🐛 22 | 🌐 Swift | 📅 2024-04-04 RxSwift wrapper around the elegant HTTP networking in Swift Alamofire
 * [RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard) ⭐ 1,602 | 🐛 27 | 🌐 Swift | 📅 2026-06-23 Reactive Keyboard in iOS
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
