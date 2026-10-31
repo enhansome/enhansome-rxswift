@@ -11,7 +11,7 @@
 
 ## Open-Source-Apps
 
-* [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,117 | 🐛 34 | 🌐 Swift | 📅 2026-10-17 Github iOS client written in RxSwift and MVVM clean architecture
+* [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,118 | 🐛 34 | 🌐 Swift | 📅 2026-10-17 Github iOS client written in RxSwift and MVVM clean architecture
 * [eidolon](https://github.com/artsy/eidolon) ⚠️ Archived The Artsy Auction Kiosk App
 * [RxTodo](https://github.com/devxoul/RxTodo) ⭐ 1,286 | 🐛 9 | 🌐 Swift | 📅 2022-10-05 iOS Todo Application with RxSwift + MVVM
 * [Papr](https://github.com/jdisho/Papr) ⚠️ Archived :octocat: An Unsplash app for iOS.
@@ -34,16 +34,16 @@
 ## Libraries
 
 * [Moya](https://github.com/Moya/Moya) ⭐ 15,352 | 🐛 177 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
-* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,097 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift
+* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,098 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift
 * [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) ⭐ 3,086 | 🐛 88 | 🌐 Swift | 📅 2024-07-10Table and Collection View Data Sources for RxSwift
-* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,391 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
+* [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,392 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) ⭐ 1,906 | 🐛 2 | 🌐 Swift | 📅 2025-05-21 RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern
 * [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire) ⭐ 1,618 | 🐛 22 | 🌐 Swift | 📅 2024-04-04 RxSwift wrapper around the elegant HTTP networking in Swift Alamofire
 * [RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard) ⭐ 1,602 | 🐛 27 | 🌐 Swift | 📅 2026-06-23 Reactive Keyboard in iOS
 * [RxBluetoothKit](https://github.com/Polidea/RxBluetoothKit) ⭐ 1,436 | 🐛 56 | 🌐 Swift | 📅 2024-03-05 iOS & OSX Bluetooth library for RxSwift
 * [RxGesture](https://github.com/RxSwiftCommunity/RxGesture) ⭐ 1,377 | 🐛 7 | 🌐 Swift | 📅 2026-04-08 RxSwift reactive wrapper for view gestures
 * [RxSwiftExt](https://github.com/RxSwiftCommunity/RxSwiftExt) ⭐ 1,352 | 🐛 16 | 🌐 Swift | 📅 2023-09-20 Additional operators not found in the core RxSwift distribution
-* [RxRealm](https://github.com/RxSwiftCommunity/RxRealm) ⭐ 1,157 | 🐛 7 | 🌐 Swift | 📅 2026-10-26 RxSwift extension for RealmSwift's types
+* [RxRealm](https://github.com/RxSwiftCommunity/RxRealm) ⭐ 1,158 | 🐛 7 | 🌐 Swift | 📅 2026-10-26 RxSwift extension for RealmSwift's types
 * [RxCombine](https://github.com/freak4pc/RxCombine) ⭐ 1,043 | 🐛 7 | 🌐 Swift | 📅 2024-04-21 Bi-directional type bridging between RxSwift and Apple's Combine framework
 * [RxFeedback](https://github.com/kzaher/RxFeedback) ⭐ 1,017 | 🐛 18 | 🌐 Swift | 📅 2023-09-21 Feedback loops architecture for RxSwift
 * [Action](https://github.com/RxSwiftCommunity/Action) ⭐ 871 | 🐛 26 | 🌐 Swift | 📅 2023-10-17 Abstracts actions to be performed in RxSwift.
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

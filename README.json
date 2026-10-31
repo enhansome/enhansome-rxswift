@@ -21,7 +21,7 @@
                 "open_issues": 34,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3117,
+                "stars": 3118,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -536,7 +536,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4097,
+                "stars": 4098,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -596,7 +596,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2391,
+                "stars": 2392,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -794,7 +794,7 @@
                 "open_issues": 7,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxRealm",
-                "stars": 1157,
+                "stars": 1158,
                 "topics": [
                   "database",
                   "reactive",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:17:54.913Z",
+    "last_updated": "2026-10-31T15:31:07.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
