@@ -237,7 +237,7 @@
                 "open_issues": 0,
                 "owner": "k-lpmg",
                 "repo": "GiTiny",
-                "stars": 280,
+                "stars": 279,
                 "topics": [
                   "clean-architecture",
                   "github-app",
@@ -508,7 +508,7 @@
                 "open_issues": 177,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15352,
+                "stars": 15353,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T16:29:20.077Z",
+    "last_updated": "2026-11-02T19:51:09.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
