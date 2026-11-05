@@ -55,7 +55,7 @@
                 "open_issues": 42,
                 "owner": "artsy",
                 "repo": "eidolon",
-                "stars": 2688,
+                "stars": 2687,
                 "topics": [
                   "artsy",
                   "auction-kiosk",
@@ -508,7 +508,7 @@
                 "open_issues": 177,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15354,
+                "stars": 15355,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:37:08.408Z",
+    "last_updated": "2026-11-05T17:42:44.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
