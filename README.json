@@ -536,7 +536,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4098,
+                "stars": 4099,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -565,7 +565,7 @@
                 "open_issues": 88,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxDataSources",
-                "stars": 3086,
+                "stars": 3085,
                 "topics": [
                   "animation",
                   "binding",
@@ -596,7 +596,7 @@
                 "open_issues": 18,
                 "owner": "QuickBirdEng",
                 "repo": "XCoordinator",
-                "stars": 2392,
+                "stars": 2391,
                 "topics": [
                   "coordinator",
                   "coordinator-pattern",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T17:42:44.320Z",
+    "last_updated": "2026-11-06T16:58:38.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
