@@ -55,7 +55,7 @@
                 "open_issues": 42,
                 "owner": "artsy",
                 "repo": "eidolon",
-                "stars": 2687,
+                "stars": 2686,
                 "topics": [
                   "artsy",
                   "auction-kiosk",
@@ -81,7 +81,7 @@
                 "open_issues": 9,
                 "owner": "devxoul",
                 "repo": "RxTodo",
-                "stars": 1286,
+                "stars": 1285,
                 "topics": [
                   "ios",
                   "reactorkit",
@@ -108,7 +108,7 @@
                 "open_issues": 19,
                 "owner": "jdisho",
                 "repo": "Papr",
-                "stars": 1139,
+                "stars": 1138,
                 "topics": [
                   "ios",
                   "ios-app",
@@ -391,7 +391,7 @@
                 "open_issues": 0,
                 "owner": "marty-suzuki",
                 "repo": "QiitaWithFluxSample",
-                "stars": 103,
+                "stars": 102,
                 "topics": [
                   "flux",
                   "ios",
@@ -565,7 +565,7 @@
                 "open_issues": 88,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxDataSources",
-                "stars": 3085,
+                "stars": 3084,
                 "topics": [
                   "animation",
                   "binding",
@@ -1158,7 +1158,7 @@
                 "open_issues": 1,
                 "owner": "tryswift",
                 "repo": "RxPagination",
-                "stars": 358,
+                "stars": 357,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
@@ -1918,7 +1918,7 @@
                 "open_issues": 4,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxGoogleMaps",
-                "stars": 93,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T16:58:38.995Z",
+    "last_updated": "2026-11-07T15:57:11.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
