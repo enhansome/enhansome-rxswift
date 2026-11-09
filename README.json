@@ -508,7 +508,7 @@
                 "open_issues": 177,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15355,
+                "stars": 15354,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -2217,7 +2217,7 @@
                 "open_issues": 2,
                 "owner": "beeth0ven",
                 "repo": "RxSwift-Chinese-Documentation",
-                "stars": 1342,
+                "stars": 1343,
                 "topics": [
                   "chinese",
                   "documentation",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T16:24:40.947Z",
+    "last_updated": "2026-11-09T20:13:41.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
