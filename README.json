@@ -656,7 +656,7 @@
                 "open_issues": 22,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxAlamofire",
-                "stars": 1618,
+                "stars": 1617,
                 "topics": [
                   "alamofire",
                   "networking",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T20:13:41.809Z",
+    "last_updated": "2026-11-10T17:20:26.498Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
@@ -2273,7 +2273,7 @@
       "open_issues": 1,
       "owner": "LeoMobileDeveloper",
       "repo": "awesome-rxswift",
-      "stars": 504,
+      "stars": 503,
       "topics": [
         "awesome",
         "awesome-list",
