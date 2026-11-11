@@ -21,7 +21,7 @@
                 "open_issues": 34,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3118,
+                "stars": 3119,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -508,7 +508,7 @@
                 "open_issues": 177,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15354,
+                "stars": 15355,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -536,7 +536,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4099,
+                "stars": 4098,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -1020,7 +1020,7 @@
                 "open_issues": 2,
                 "owner": "NghiaTranUIT",
                 "repo": "iOS-Awesome-Starter-Kit",
-                "stars": 605,
+                "stars": 606,
                 "topics": [
                   "clean-architecture",
                   "ios",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:20:26.498Z",
+    "last_updated": "2026-11-11T17:29:55.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
