@@ -17,7 +17,7 @@
                 "id": 78011995,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-17T22:08:56Z",
+                "last_commit": "2026-11-13T17:14:57Z",
                 "open_issues": 34,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
@@ -168,7 +168,7 @@
                 "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxMarbles",
-                "stars": 475,
+                "stars": 474,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
@@ -1020,7 +1020,7 @@
                 "open_issues": 2,
                 "owner": "NghiaTranUIT",
                 "repo": "iOS-Awesome-Starter-Kit",
-                "stars": 606,
+                "stars": 607,
                 "topics": [
                   "clean-architecture",
                   "ios",
@@ -1133,7 +1133,7 @@
                 "open_issues": 8,
                 "owner": "Brightify",
                 "repo": "Reactant",
-                "stars": 369,
+                "stars": 367,
                 "topics": [
                   "ios",
                   "rxswift",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T17:46:12.449Z",
+    "last_updated": "2026-11-13T17:24:22.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",

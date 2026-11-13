@@ -11,12 +11,12 @@
 
 ## Open-Source-Apps
 
-* [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,118 | 🐛 34 | 🌐 Swift | 📅 2026-10-17 Github iOS client written in RxSwift and MVVM clean architecture
+* [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,118 | 🐛 34 | 🌐 Swift | 📅 2026-11-13 Github iOS client written in RxSwift and MVVM clean architecture
 * [eidolon](https://github.com/artsy/eidolon) ⚠️ Archived The Artsy Auction Kiosk App
 * [RxTodo](https://github.com/devxoul/RxTodo) ⭐ 1,285 | 🐛 9 | 🌐 Swift | 📅 2022-10-05 iOS Todo Application with RxSwift + MVVM
 * [Papr](https://github.com/jdisho/Papr) ⚠️ Archived :octocat: An Unsplash app for iOS.
 * [RxSwiftExamples](https://github.com/DroidsOnRoids/RxSwiftExamples) ⭐ 966 | 🐛 4 | 🌐 Swift | 📅 2026-10-21 Examples and resources for RxSwift.
-* [RxMarbles](https://github.com/RxSwiftCommunity/RxMarbles) ⭐ 475 | 🐛 2 | 🌐 Swift | 📅 2020-06-25 RxMarbles iOS app
+* [RxMarbles](https://github.com/RxSwiftCommunity/RxMarbles) ⭐ 474 | 🐛 2 | 🌐 Swift | 📅 2020-06-25 RxMarbles iOS app
 * [ZhiHu-RxSwift](https://github.com/kLike/ZhiHu-RxSwift) ⭐ 371 | 🐛 4 | 🌐 Swift | 📅 2025-03-12 ZhiHu Daily with RxSwift
 * [RxXMLY](https://github.com/sessionCh/RxXMLY) ⭐ 321 | 🐛 2 | 🌐 Swift | 📅 2018-02-06 XiMaLaYa with RxSwift
 * [GiTiny](https://github.com/k-lpmg/GiTiny) ⭐ 279 | 🐛 0 | 🌐 Swift | 📅 2019-12-31 An iOS app for GitHub with exploring trending, Written in RxSwift and MVVM-C architecture.
@@ -52,11 +52,11 @@
 * [RxOptional](https://github.com/RxSwiftCommunity/RxOptional) ⭐ 693 | 🐛 6 | 🌐 Swift | 📅 2026-04-08 RxSwift extensions for Swift optionals and "Occupiable" types
 * [RxAnimated](https://github.com/RxSwiftCommunity/RxAnimated) ⭐ 681 | 🐛 9 | 🌐 Swift | 📅 2021-10-04 Animated RxCocoa bindings
 * [NSObject-Rx](https://github.com/RxSwiftCommunity/NSObject-Rx) ⭐ 644 | 🐛 9 | 🌐 Swift | 📅 2025-12-18 Handy RxSwift extensions on NSObject, including rx\_disposeBag.
-* [iOS-Awesome-Starter-Kit](https://github.com/NghiaTranUIT/iOS-Awesome-Starter-Kit) ⭐ 606 | 🐛 2 | 🌐 Swift | 📅 2017-03-20 The perfect combination: Clean Swift + ReSwift + PromiseKit
+* [iOS-Awesome-Starter-Kit](https://github.com/NghiaTranUIT/iOS-Awesome-Starter-Kit) ⭐ 607 | 🐛 2 | 🌐 Swift | 📅 2017-03-20 The perfect combination: Clean Swift + ReSwift + PromiseKit
 * [RxViewModel](https://github.com/RxSwiftCommunity/RxViewModel) ⭐ 396 | 🐛 14 | 🌐 Swift | 📅 2023-01-20 ReactiveViewModel-esque using RxSwift
 * [RxAppState](https://github.com/pixeldock/RxAppState) ⭐ 385 | 🐛 0 | 🌐 Swift | 📅 2024-05-24 RxSwift extensions for UIApplicationDelegate methods to observe changes in your app's state
 * [RxTheme](https://github.com/RxSwiftCommunity/RxTheme) ⭐ 375 | 🐛 1 | 🌐 Swift | 📅 2021-04-23 Theme management based on Rx
-* [Reactant](https://github.com/Brightify/Reactant) ⭐ 369 | 🐛 8 | 🌐 Swift | 📅 2021-11-09 Reactant is a reactive architecture for iOS <https://www.reactant.tech>
+* [Reactant](https://github.com/Brightify/Reactant) ⭐ 367 | 🐛 8 | 🌐 Swift | 📅 2021-11-09 Reactant is a reactive architecture for iOS <https://www.reactant.tech>
 * [RxPagination](https://github.com/tryswift/RxPagination) ⭐ 357 | 🐛 1 | 🌐 Swift | 📅 2017-10-12 The demo project for "Protocol-Oriented Programming in Networking".
 * [RxViewController](https://github.com/devxoul/RxViewController) ⭐ 342 | 🐛 6 | 🌐 Swift | 📅 2022-03-28 RxSwift wrapper for UIViewController and NSViewController
 * [RxReachability](https://github.com/RxSwiftCommunity/RxReachability) ⭐ 283 | 🐛 1 | 🌐 Swift | 📅 2022-09-01 RxSwift bindings for Reachability
@@ -98,7 +98,7 @@
 * [RxAlert](https://github.com/RxSwiftCommunity/RxAlert) ⭐ 48 | 🐛 0 | 🌐 Swift | 📅 2024-08-05 UIAlertController using RxSwift.
 * [RxDucks](https://github.com/cats-oss/RxDucks) ⭐ 39 | 🐛 0 | 🌐 Swift | 📅 2019-04-24 🦆 RxDucks is a Redux-like framework working on RxSwift.
 * [rxswift-notifications](https://github.com/leandromperez/rxswift-notifications) ⭐ 32 | 🐛 1 | 🌐 Swift | 📅 2020-04-28 A small group of extensions on top of NSNotification center and RxSwift that allows for strong-typed notifications
-* [Cycle.swift](https://github.com/BrianSemiglia/Cycle.swift) ⭐ 25 | 🐛 1 | 🌐 Swift | 📅 2023-01-25 Cyclical observable for unidirectional architectures inspired by [cycle.js](https://github.com/cyclejs/cyclejs) ⭐ 10,229 | 🐛 134 | 🌐 TypeScript | 📅 2026-06-09.
+* [Cycle.swift](https://github.com/BrianSemiglia/Cycle.swift) ⭐ 25 | 🐛 1 | 🌐 Swift | 📅 2023-01-25 Cyclical observable for unidirectional architectures inspired by [cycle.js](https://github.com/cyclejs/cyclejs) ⭐ 10,229 | 🐛 151 | 🌐 TypeScript | 📅 2026-06-09.
 * [RxTask](https://github.com/RxSwiftCommunity/RxTask) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2017-02-28 An RxSwift implementation of a command line runner.
 * [Moya-ObjectMapper](https://github.com/ivanbruel/Moya-ObjectMapper) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2021-02-15 ObjectMapper bindings for Moya and RxSwift
 * [RxIGListKit](https://github.com/yuzushioh/RxIGListKit) IGListKit with RxSwift🚀
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
