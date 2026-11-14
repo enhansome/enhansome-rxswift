@@ -790,8 +790,8 @@
                 "id": 56589037,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-03T04:08:37Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-13T17:51:32Z",
+                "open_issues": 4,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxRealm",
                 "stars": 1158,
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:24:22.320Z",
+    "last_updated": "2026-11-14T16:11:29.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",

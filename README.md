@@ -43,7 +43,7 @@
 * [RxBluetoothKit](https://github.com/Polidea/RxBluetoothKit) ⭐ 1,435 | 🐛 56 | 🌐 Swift | 📅 2024-03-05 iOS & OSX Bluetooth library for RxSwift
 * [RxGesture](https://github.com/RxSwiftCommunity/RxGesture) ⭐ 1,377 | 🐛 7 | 🌐 Swift | 📅 2026-04-08 RxSwift reactive wrapper for view gestures
 * [RxSwiftExt](https://github.com/RxSwiftCommunity/RxSwiftExt) ⭐ 1,352 | 🐛 16 | 🌐 Swift | 📅 2023-09-20 Additional operators not found in the core RxSwift distribution
-* [RxRealm](https://github.com/RxSwiftCommunity/RxRealm) ⭐ 1,158 | 🐛 3 | 🌐 Swift | 📅 2026-11-03 RxSwift extension for RealmSwift's types
+* [RxRealm](https://github.com/RxSwiftCommunity/RxRealm) ⭐ 1,158 | 🐛 4 | 🌐 Swift | 📅 2026-11-13 RxSwift extension for RealmSwift's types
 * [RxCombine](https://github.com/freak4pc/RxCombine) ⭐ 1,043 | 🐛 7 | 🌐 Swift | 📅 2024-04-21 Bi-directional type bridging between RxSwift and Apple's Combine framework
 * [RxFeedback](https://github.com/kzaher/RxFeedback) ⭐ 1,017 | 🐛 18 | 🌐 Swift | 📅 2023-09-21 Feedback loops architecture for RxSwift
 * [Action](https://github.com/RxSwiftCommunity/Action) ⭐ 871 | 🐛 26 | 🌐 Swift | 📅 2023-10-17 Abstracts actions to be performed in RxSwift.
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
