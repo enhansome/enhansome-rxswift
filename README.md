@@ -33,7 +33,7 @@
 
 ## Libraries
 
-* [Moya](https://github.com/Moya/Moya) ⭐ 15,353 | 🐛 177 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
+* [Moya](https://github.com/Moya/Moya) ⭐ 15,351 | 🐛 177 | 🌐 Swift | 📅 2026-07-14 Network abstraction layer written in Swift.
 * [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) ⭐ 4,098 | 🐛 2 | 🌐 Swift | 📅 2025-02-12 Example of Clean Architecture of iOS app using RxSwift
 * [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) ⭐ 3,084 | 🐛 88 | 🌐 Swift | 📅 2024-07-10Table and Collection View Data Sources for RxSwift
 * [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) ⭐ 2,392 | 🐛 18 | 🌐 Swift | 📅 2026-07-02 Reactive navigation library for iOS based on the coordinator pattern
@@ -95,7 +95,7 @@
 * [RxFileMonitor](https://github.com/RxSwiftCommunity/RxFileMonitor) ⭐ 61 | 🐛 3 | 🌐 Swift | 📅 2025-01-04 RxSwift wrapper around CoreFoundation file events (FSEvent\*) <http://cleancocoa.com/>
 * [RxPager](https://github.com/RxSwiftCommunity/RxPager) ⭐ 60 | 🐛 4 | 🌐 Swift | 📅 2022-09-05 Pager for RxSwift
 * [RxCoreMotion](https://github.com/RxSwiftCommunity/RxCoreMotion) ⭐ 59 | 🐛 3 | 🌐 Swift | 📅 2021-01-20 Provides an easy and straight-forward way to use Apple iOS CoreMotion responses as Rx Observables.
-* [RxAlert](https://github.com/RxSwiftCommunity/RxAlert) ⭐ 48 | 🐛 0 | 🌐 Swift | 📅 2024-08-05 UIAlertController using RxSwift.
+* [RxAlert](https://github.com/RxSwiftCommunity/RxAlert) ⭐ 48 | 🐛 0 | 🌐 Swift | 📅 2026-11-17 UIAlertController using RxSwift.
 * [RxDucks](https://github.com/cats-oss/RxDucks) ⭐ 39 | 🐛 0 | 🌐 Swift | 📅 2019-04-24 🦆 RxDucks is a Redux-like framework working on RxSwift.
 * [rxswift-notifications](https://github.com/leandromperez/rxswift-notifications) ⭐ 32 | 🐛 1 | 🌐 Swift | 📅 2020-04-28 A small group of extensions on top of NSNotification center and RxSwift that allows for strong-typed notifications
 * [Cycle.swift](https://github.com/BrianSemiglia/Cycle.swift) ⭐ 25 | 🐛 1 | 🌐 Swift | 📅 2023-01-25 Cyclical observable for unidirectional architectures inspired by [cycle.js](https://github.com/cyclejs/cyclejs) ⭐ 10,229 | 🐛 151 | 🌐 TypeScript | 📅 2026-06-09.
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
