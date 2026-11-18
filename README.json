@@ -508,7 +508,7 @@
                 "open_issues": 177,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15351,
+                "stars": 15354,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -629,7 +629,7 @@
                 "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxFlow",
-                "stars": 1906,
+                "stars": 1905,
                 "topics": [
                   "coordinator",
                   "flow",
@@ -656,7 +656,7 @@
                 "open_issues": 22,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxAlamofire",
-                "stars": 1617,
+                "stars": 1616,
                 "topics": [
                   "alamofire",
                   "networking",
@@ -770,7 +770,7 @@
                 "open_issues": 16,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxSwiftExt",
-                "stars": 1352,
+                "stars": 1351,
                 "topics": [
                   "reactive-programming",
                   "rxswift"
@@ -1936,7 +1936,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2017-11-27T05:27:47Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxSegue",
                 "stars": 79,
@@ -2217,7 +2217,7 @@
                 "open_issues": 2,
                 "owner": "beeth0ven",
                 "repo": "RxSwift-Chinese-Documentation",
-                "stars": 1343,
+                "stars": 1342,
                 "topics": [
                   "chinese",
                   "documentation",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T18:48:46.271Z",
+    "last_updated": "2026-11-18T18:28:11.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
