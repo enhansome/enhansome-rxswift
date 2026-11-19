@@ -13,7 +13,7 @@
 
 * [SwiftHub](https://github.com/khoren93/SwiftHub) ⭐ 3,118 | 🐛 34 | 🌐 Swift | 📅 2026-11-13 Github iOS client written in RxSwift and MVVM clean architecture
 * [eidolon](https://github.com/artsy/eidolon) ⚠️ Archived The Artsy Auction Kiosk App
-* [RxTodo](https://github.com/devxoul/RxTodo) ⭐ 1,285 | 🐛 9 | 🌐 Swift | 📅 2022-10-05 iOS Todo Application with RxSwift + MVVM
+* [RxTodo](https://github.com/devxoul/RxTodo) ⭐ 1,284 | 🐛 9 | 🌐 Swift | 📅 2022-10-05 iOS Todo Application with RxSwift + MVVM
 * [Papr](https://github.com/jdisho/Papr) ⚠️ Archived :octocat: An Unsplash app for iOS.
 * [RxSwiftExamples](https://github.com/DroidsOnRoids/RxSwiftExamples) ⭐ 966 | 🐛 4 | 🌐 Swift | 📅 2026-10-21 Examples and resources for RxSwift.
 * [RxMarbles](https://github.com/RxSwiftCommunity/RxMarbles) ⭐ 474 | 🐛 2 | 🌐 Swift | 📅 2020-06-25 RxMarbles iOS app
@@ -98,7 +98,7 @@
 * [RxAlert](https://github.com/RxSwiftCommunity/RxAlert) ⭐ 48 | 🐛 0 | 🌐 Swift | 📅 2026-11-17 UIAlertController using RxSwift.
 * [RxDucks](https://github.com/cats-oss/RxDucks) ⭐ 39 | 🐛 0 | 🌐 Swift | 📅 2019-04-24 🦆 RxDucks is a Redux-like framework working on RxSwift.
 * [rxswift-notifications](https://github.com/leandromperez/rxswift-notifications) ⭐ 32 | 🐛 1 | 🌐 Swift | 📅 2020-04-28 A small group of extensions on top of NSNotification center and RxSwift that allows for strong-typed notifications
-* [Cycle.swift](https://github.com/BrianSemiglia/Cycle.swift) ⭐ 25 | 🐛 1 | 🌐 Swift | 📅 2023-01-25 Cyclical observable for unidirectional architectures inspired by [cycle.js](https://github.com/cyclejs/cyclejs) ⭐ 10,230 | 🐛 151 | 🌐 TypeScript | 📅 2026-06-09.
+* [Cycle.swift](https://github.com/BrianSemiglia/Cycle.swift) ⭐ 25 | 🐛 1 | 🌐 Swift | 📅 2023-01-25 Cyclical observable for unidirectional architectures inspired by [cycle.js](https://github.com/cyclejs/cyclejs) ⭐ 10,231 | 🐛 151 | 🌐 TypeScript | 📅 2026-06-09.
 * [RxTask](https://github.com/RxSwiftCommunity/RxTask) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2017-02-28 An RxSwift implementation of a command line runner.
 * [Moya-ObjectMapper](https://github.com/ivanbruel/Moya-ObjectMapper) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2021-02-15 ObjectMapper bindings for Moya and RxSwift
 * [RxIGListKit](https://github.com/yuzushioh/RxIGListKit) IGListKit with RxSwift🚀
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

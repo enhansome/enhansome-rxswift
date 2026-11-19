@@ -81,7 +81,7 @@
                 "open_issues": 9,
                 "owner": "devxoul",
                 "repo": "RxTodo",
-                "stars": 1285,
+                "stars": 1284,
                 "topics": [
                   "ios",
                   "reactorkit",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T18:28:11.209Z",
+    "last_updated": "2026-11-19T18:42:55.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
