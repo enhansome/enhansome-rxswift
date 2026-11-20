@@ -21,7 +21,7 @@
                 "open_issues": 34,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3118,
+                "stars": 3116,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -81,7 +81,7 @@
                 "open_issues": 9,
                 "owner": "devxoul",
                 "repo": "RxTodo",
-                "stars": 1284,
+                "stars": 1283,
                 "topics": [
                   "ios",
                   "reactorkit",
@@ -108,7 +108,7 @@
                 "open_issues": 19,
                 "owner": "jdisho",
                 "repo": "Papr",
-                "stars": 1139,
+                "stars": 1138,
                 "topics": [
                   "ios",
                   "ios-app",
@@ -508,7 +508,7 @@
                 "open_issues": 177,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15354,
+                "stars": 15353,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -656,7 +656,7 @@
                 "open_issues": 22,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxAlamofire",
-                "stars": 1616,
+                "stars": 1611,
                 "topics": [
                   "alamofire",
                   "networking",
@@ -794,7 +794,7 @@
                 "open_issues": 4,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxRealm",
-                "stars": 1158,
+                "stars": 1155,
                 "topics": [
                   "database",
                   "reactive",
@@ -855,7 +855,7 @@
                 "open_issues": 18,
                 "owner": "NoTests",
                 "repo": "RxFeedback.swift",
-                "stars": 1017,
+                "stars": 1016,
                 "topics": [
                   "architecture",
                   "feedback-loop",
@@ -2217,7 +2217,7 @@
                 "open_issues": 2,
                 "owner": "beeth0ven",
                 "repo": "RxSwift-Chinese-Documentation",
-                "stars": 1342,
+                "stars": 1341,
                 "topics": [
                   "chinese",
                   "documentation",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T18:42:55.000Z",
+    "last_updated": "2026-11-20T18:03:40.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
