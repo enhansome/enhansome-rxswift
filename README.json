@@ -536,7 +536,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4098,
+                "stars": 4097,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -565,7 +565,7 @@
                 "open_issues": 88,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxDataSources",
-                "stars": 3084,
+                "stars": 3083,
                 "topics": [
                   "animation",
                   "binding",
@@ -629,7 +629,7 @@
                 "open_issues": 2,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxFlow",
-                "stars": 1905,
+                "stars": 1904,
                 "topics": [
                   "coordinator",
                   "flow",
@@ -656,7 +656,7 @@
                 "open_issues": 22,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxAlamofire",
-                "stars": 1611,
+                "stars": 1610,
                 "topics": [
                   "alamofire",
                   "networking",
@@ -707,7 +707,7 @@
                 "open_issues": 56,
                 "owner": "Polidea",
                 "repo": "RxBluetoothKit",
-                "stars": 1435,
+                "stars": 1434,
                 "topics": [
                   "ble",
                   "bluetooth",
@@ -794,7 +794,7 @@
                 "open_issues": 4,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxRealm",
-                "stars": 1155,
+                "stars": 1154,
                 "topics": [
                   "database",
                   "reactive",
@@ -883,7 +883,7 @@
                 "open_issues": 26,
                 "owner": "RxSwiftCommunity",
                 "repo": "Action",
-                "stars": 871,
+                "stars": 870,
                 "topics": [
                   "hacktoberfest",
                   "reactive-extensions",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T17:27:06.444Z",
+    "last_updated": "2026-11-23T21:45:20.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
