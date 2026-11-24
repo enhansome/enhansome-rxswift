@@ -21,7 +21,7 @@
                 "open_issues": 34,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3116,
+                "stars": 3115,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -508,7 +508,7 @@
                 "open_issues": 177,
                 "owner": "Moya",
                 "repo": "Moya",
-                "stars": 15353,
+                "stars": 15354,
                 "topics": [
                   "alamofire",
                   "hacktoberfest",
@@ -536,7 +536,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4097,
+                "stars": 4096,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -2217,7 +2217,7 @@
                 "open_issues": 2,
                 "owner": "beeth0ven",
                 "repo": "RxSwift-Chinese-Documentation",
-                "stars": 1341,
+                "stars": 1340,
                 "topics": [
                   "chinese",
                   "documentation",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T21:45:20.889Z",
+    "last_updated": "2026-11-24T20:24:13.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
