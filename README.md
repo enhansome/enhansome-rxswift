@@ -21,8 +21,8 @@
 * [RxXMLY](https://github.com/sessionCh/RxXMLY) ⭐ 321 | 🐛 2 | 🌐 Swift | 📅 2018-02-06 XiMaLaYa with RxSwift
 * [GiTiny](https://github.com/k-lpmg/GiTiny) ⭐ 279 | 🐛 0 | 🌐 Swift | 📅 2019-12-31 An iOS app for GitHub with exploring trending, Written in RxSwift and MVVM-C architecture.
 * [Passcode](https://github.com/cruisediary/Passcode) ⭐ 253 | 🐛 0 | 🌐 Swift | 📅 2019-08-24 🔑 Passcode for iOS Rxswift, ReactorKit and IGListKit example
-* [ReactiveWeatherExample](https://github.com/marinbenc/ReactiveWeatherExample) ⭐ 199 | 🐛 1 | 🌐 Swift | 📅 2018-03-09 A simple iOS weather app using the MVVM pattern and RxSwift framework
 * [100-days-of-RxSwift](https://github.com/Edison-Hsu/100-days-of-RxSwift) ⭐ 199 | 🐛 0 | 🌐 Swift | 📅 2024-10-24 💨100 days and 40 project of RxSwift
+* [ReactiveWeatherExample](https://github.com/marinbenc/ReactiveWeatherExample) ⭐ 197 | 🐛 1 | 🌐 Swift | 📅 2018-03-09 A simple iOS weather app using the MVVM pattern and RxSwift framework
 * [LearningRxSwift](https://github.com/pepaslabs/LearningRxSwift) ⭐ 166 | 🐛 1 | 🌐 Swift | 📅 2017-04-27 A space to doodle as I learn RxSwift
 * [RxGithub](https://github.com/oronbz/RxGithub) ⭐ 122 | 🐛 0 | 🌐 Swift | 📅 2019-09-16 An example of MVVM using RxSwift and Swinject (DI)
 * [QiitaWithFluxSample](https://github.com/marty-suzuki/QiitaWithFluxSample) ⭐ 102 | 🐛 0 | 🌐 Swift | 📅 2017-12-04 A sample project uses Flux and MVVM features with RxSwift.
@@ -98,7 +98,7 @@
 * [RxAlert](https://github.com/RxSwiftCommunity/RxAlert) ⭐ 48 | 🐛 0 | 🌐 Swift | 📅 2026-11-17 UIAlertController using RxSwift.
 * [RxDucks](https://github.com/cats-oss/RxDucks) ⭐ 39 | 🐛 0 | 🌐 Swift | 📅 2019-04-24 🦆 RxDucks is a Redux-like framework working on RxSwift.
 * [rxswift-notifications](https://github.com/leandromperez/rxswift-notifications) ⭐ 32 | 🐛 1 | 🌐 Swift | 📅 2020-04-28 A small group of extensions on top of NSNotification center and RxSwift that allows for strong-typed notifications
-* [Cycle.swift](https://github.com/BrianSemiglia/Cycle.swift) ⭐ 25 | 🐛 1 | 🌐 Swift | 📅 2023-01-25 Cyclical observable for unidirectional architectures inspired by [cycle.js](https://github.com/cyclejs/cyclejs) ⭐ 10,230 | 🐛 151 | 🌐 TypeScript | 📅 2026-06-09.
+* [Cycle.swift](https://github.com/BrianSemiglia/Cycle.swift) ⭐ 25 | 🐛 1 | 🌐 Swift | 📅 2023-01-25 Cyclical observable for unidirectional architectures inspired by [cycle.js](https://github.com/cyclejs/cyclejs) ⭐ 10,231 | 🐛 151 | 🌐 TypeScript | 📅 2026-06-09.
 * [RxTask](https://github.com/RxSwiftCommunity/RxTask) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2017-02-28 An RxSwift implementation of a command line runner.
 * [Moya-ObjectMapper](https://github.com/ivanbruel/Moya-ObjectMapper) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2021-02-15 ObjectMapper bindings for Moya and RxSwift
 * [RxIGListKit](https://github.com/yuzushioh/RxIGListKit) IGListKit with RxSwift🚀
@@ -128,4 +128,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

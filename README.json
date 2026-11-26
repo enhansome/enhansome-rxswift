@@ -282,27 +282,6 @@
             },
             {
               "node_type": "item",
-              "title": "ReactiveWeatherExample",
-              "description": "A simple iOS weather app using the MVVM pattern and RxSwift framework",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A simple iOS weather app using the MVVM pattern and RxSwift framework.",
-                "homepage": null,
-                "id": 44771139,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2018-03-09T07:30:14Z",
-                "open_issues": 1,
-                "owner": "marinbenc",
-                "repo": "ReactiveWeatherExample",
-                "stars": 199,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:01:02.776Z"
-            },
-            {
-              "node_type": "item",
               "title": "100-days-of-RxSwift",
               "description": "💨100 days and 40 project of RxSwift",
               "children": [],
@@ -321,6 +300,27 @@
                 "topics": [
                   "rxswift"
                 ]
+              },
+              "first_seen": "2026-08-28T21:01:02.776Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ReactiveWeatherExample",
+              "description": "A simple iOS weather app using the MVVM pattern and RxSwift framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A simple iOS weather app using the MVVM pattern and RxSwift framework.",
+                "homepage": null,
+                "id": 44771139,
+                "language": "Swift",
+                "license": "MIT",
+                "last_commit": "2018-03-09T07:30:14Z",
+                "open_issues": 1,
+                "owner": "marinbenc",
+                "repo": "ReactiveWeatherExample",
+                "stars": 197,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:01:02.776Z"
             },
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:38:29.611Z",
+    "last_updated": "2026-11-26T19:18:39.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
