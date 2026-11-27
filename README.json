@@ -21,7 +21,7 @@
                 "open_issues": 34,
                 "owner": "khoren93",
                 "repo": "SwiftHub",
-                "stars": 3115,
+                "stars": 3116,
                 "topics": [
                   "cleanarchitecture",
                   "fastlane",
@@ -536,7 +536,7 @@
                 "open_issues": 2,
                 "owner": "sergdort",
                 "repo": "ModernCleanArchitectureSwiftUI",
-                "stars": 4097,
+                "stars": 4096,
                 "topics": [
                   "clean-architecture",
                   "composable-architecture",
@@ -742,7 +742,7 @@
                 "open_issues": 7,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxGesture",
-                "stars": 1377,
+                "stars": 1376,
                 "topics": [
                   "click",
                   "gesture",
@@ -794,7 +794,7 @@
                 "open_issues": 4,
                 "owner": "RxSwiftCommunity",
                 "repo": "RxRealm",
-                "stars": 1154,
+                "stars": 1153,
                 "topics": [
                   "database",
                   "reactive",
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:18:39.753Z",
+    "last_updated": "2026-11-27T19:12:38.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "An \"awesome\" type curated list of RxSwift library and learning material",
